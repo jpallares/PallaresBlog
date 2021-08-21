@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Attending SoCraTes UK remotely
 tags:
   [

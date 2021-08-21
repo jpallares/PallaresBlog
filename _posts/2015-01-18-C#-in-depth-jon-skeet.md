@@ -1,4 +1,5 @@
 ---
+layout: post
 title: C# in depth by Jon Skeet
 tags: [c#, jonskeet, book]
 lang: en

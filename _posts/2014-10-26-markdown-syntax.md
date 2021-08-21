@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Markdown syntax introduction
 modified: 2014-26-10
 tags: [markdown, syntax, blogging, HTML]

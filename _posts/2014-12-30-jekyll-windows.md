@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Using Jekyll on Windows
 modified: 2014-12-30
 tags: [blog, jekyll, windows, ruby, python]

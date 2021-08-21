@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Necesitas un gestor de contraseñas
 tags: [password, manager, dashlane, bitwarden]
 excerpt: Navega más seguro y recuerda solo una contraseña.

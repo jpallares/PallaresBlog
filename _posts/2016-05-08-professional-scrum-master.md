@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Professional Scrum Master certification
 tags: [scrum master, scrum.org, agile, scrum, training, certification]
 lang: en

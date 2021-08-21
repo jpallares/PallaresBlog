@@ -1,4 +1,5 @@
 ---
+layout: post
 title: M101N MongoDB for .NET 
 tags: [mongo, .NET, mongodb, course, certification]
 lang: en

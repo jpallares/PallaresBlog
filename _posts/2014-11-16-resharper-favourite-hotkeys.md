@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Resharper favourite hotkeys	
 tags: [resharper, c#, programming, .NET]
 header:

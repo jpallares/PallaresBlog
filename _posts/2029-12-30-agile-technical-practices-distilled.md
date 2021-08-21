@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Book - Agile Technical Practices Distilled
 tags: [technical, book, agile, practices]
 excerpt: A technical book that forces you to practice what you learn.

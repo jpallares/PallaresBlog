@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Ahorra en la factura de luz y gas
 tags: [ahorro, economia, facturas, luz, gas, tracking]
 excerpt: Usa comercializadoras reguladas, te explico como

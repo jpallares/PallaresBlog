@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Moving to Jekyll
 excerpt: "Leaving Blogger for Jekyll"
 modified: 2014-24-09
