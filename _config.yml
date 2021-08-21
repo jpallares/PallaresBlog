@@ -8,7 +8,7 @@ title_separator          : "-"
 subtitle                 : "Kaizen"
 name                     : "Juan Pallarès Garbí"
 description              : "Juan Pallarès Garbí personal blog, I write about everything that comes to mind."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://juan.pallares.me
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "/jpallares/PallaresBlog"
 teaser                   : "/images/black_keyboard.jpg"
