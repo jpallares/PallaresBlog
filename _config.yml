@@ -290,3 +290,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
+
+# Multilanguage
+lang: en
