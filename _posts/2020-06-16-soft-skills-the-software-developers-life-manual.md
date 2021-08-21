@@ -17,7 +17,7 @@ I recently finished reading the book [Soft Skills: The software developer's life
 1. Fitness
 1. Spirit
 
-![Soft Skills: The software developer's life manual](../images/softskillsbook.jpg)
+![Soft Skills: The software developer's life manual](/images/softskillsbook.jpg)
 
 The most interesting ones for me were the first 2. I'm not saying the rest of the book was boring (I wouldn't have finished it) but for example I skimmed through the Fitness or Financial sections since I already read much more detailed books in this area. This is a feeling I got in general with the whole book, it feels like an introduction to every section, if you want to go deep into any of the areas you have to get books that focun on them. On the other hand, is really nice that it does not get lost into too much detail. It goes straight to the point in what matters to us software developers.
 

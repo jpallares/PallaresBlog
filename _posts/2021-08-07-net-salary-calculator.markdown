@@ -16,7 +16,7 @@ If you are like me, to calculate the net salary you used to pick the [first resu
 
 And if you wanted to go one step further, you created an Excel sheet with the typical sections table and you calculated it manually:
 
-![Estatal IPRF sections](../images/tramos.jpg)
+![Estatal IPRF sections](/images/tramos.jpg)
 
 So...that's it? Well no ... to calculate well the net salary, there are many more details to consider.
 
@@ -30,7 +30,7 @@ NO.
 
 **It is impossible that a raise of your salary ends up with you earning less net salary**. The sections are cumulative. Example, let's imagine that Paco earns 24,000 gross euros per year:
 
-![Explanted sections](../images/tramosExplicados.png)
+![Explanted sections](/images/tramosExplicados.png)
 
 The first 12,450 € have 19% retention. What goes between € 12,450 and € 20,200, that is, the following 7,750 € have 24% retention. Finally, the difference between 24,000 € and 20,200 € => 3,800 € retains 30%.
 
@@ -40,7 +40,7 @@ Always the first part of the salary will have a lower retention and increase pro
 
 Online calculators normally only show you some sections of the IRPF (PIT). These sections are for the state and apply to all except Basques and Navarros. What we do not usually take into account is that each autonomy has its sections, and it's different for each one of them.
 
-![Catalan sections](../images/dosTramos.png)
+![Catalan sections](/images/dosTramos.png)
 
 The typical state table only applies to non-resident Spaniards, if residing in Spanish territory, the table of your community and the state (with half the percentage in each section) is used. Following the example of Paco, if he lived in Barcelona, we would have the following PIT:
 

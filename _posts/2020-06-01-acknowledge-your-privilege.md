@@ -30,7 +30,7 @@ Think about it. Why are blue and green contact lenses sold? Why so many people d
 
 Going back to my environment, software engineers. Check out the results of the latest [Stackoverflow 2020 survey](https://insights.stackoverflow.com/survey/2020#developer-profile-gender-all-respondents2) released some days ago.
 
-![Race and Ethnicity](../images/developers-race.png)
+![Race and Ethnicity](/images/developers-race.png)
 
 We have a long way to arrive to equality everywhere. We (white) have it really easy, just acknowledge it, as a first step.
 

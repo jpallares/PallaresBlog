@@ -20,7 +20,7 @@ I have a PC machine working as a server with Windows 10 installed. I almost neve
 
 If I loging phisically, I can't use Dashlane to get my password that's why I have enabled [PIN authentication](https://petri.com/windows-10-use-a-pin-instead-of-a-password-to-sign-in).
 
-![Windows PIN Sing-in](../images/WindowsPIN.jpg)
+![Windows PIN Sing-in](/images/WindowsPIN.jpg)
 
 So what's the problem? **When you try to remote with a machine that has never remoted before it won't work**.
 

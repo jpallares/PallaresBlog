@@ -19,7 +19,7 @@ The term was first used by Ward Cunninham in 1992. He realized financial debt co
 * But all the credits have interest, don’t they? In technical debt after you skipped some design decisions for later the development will be slower, this will mean interest is being payed.
 * We could say that when the whole project is a mess because interest was never payed is similar to when a company goes bankrupt.
 
- ![Technical debt](../images/TechnicalDebt.png "Technical debt")
+ ![Technical debt](/images/TechnicalDebt.png "Technical debt")
 
 Definition
 ----------
@@ -46,7 +46,7 @@ As you may be guessing, the best option is the first one. It’s one of the main
 When to take debt - Design payoff line[^2]
 ----------
 [^2]: <http://martinfowler.com/bliki/DesignStaminaHypothesis.html>
-![Design payoff line](../images/DesignPayoffLine.png "Design payoff line")
+![Design payoff line](/images/DesignPayoffLine.png "Design payoff line")
  
 As we saw with the previous example, technical debt is only worth up to a certain point. 
 This graph tries to compare delivered functionality versus time in two different projects, one with good design (orange line) and another without design (blue line). The problem with no-design, is that by not putting effort into the design, the code base deteriorates and becomes harder to modify, which lowers the productivity soon after the project grows. Good design keeps its productivity more constant so at some point (the design payoff line) it overtakes the cumulative functionality of the no-design project and will continue to do better.

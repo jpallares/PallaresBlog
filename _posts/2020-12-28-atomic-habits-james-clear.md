@@ -15,7 +15,7 @@ ref: atomichabits
 
 The Compound Interest concept is mainly used in economic terms, [when investing long-term](http://pallares.me/why-i-became-a-bogglehead/) is one of the keys for having great benefits. But the concept can be applied to almost everything and in this book it's applied to self-improvement, acquiring good habits. That's why with tiny changes you get remarkable results.
 
-![Compound Interest Diagram](../images/compoundinterest.png)
+![Compound Interest Diagram](/images/compoundinterest.png)
 
 ## Cue -> Craving -> Response -> Reward
 
@@ -34,11 +34,11 @@ Changing our habits is challenging for two reasons: (1) we try to change the wro
 
 Outcomes are about what you get. Processes are about what you do. Identity is about what you believe. We usually say, _"I'll do sport every day"_ instead it should be _"I'm a fit person"_. The focus is who we wish to become.
 
-![Layers of Behavior Change Diagram](../images/LayersOfBehaviorChange.png)
+![Layers of Behavior Change Diagram](/images/LayersOfBehaviorChange.png)
 
 Instead of acting from the outside to the inside. We have to create our identity and it will change the outer layers.
 
-![Identity-Based Habits Diagram](../images/IdentityBasedHabits.png)
+![Identity-Based Habits Diagram](/images/IdentityBasedHabits.png)
 
 Once we have an identity, it will be very conflicting for us to act against it.
 

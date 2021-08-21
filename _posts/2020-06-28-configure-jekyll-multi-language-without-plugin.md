@@ -16,7 +16,7 @@ Almost 6 years ago I migrated from [Blogger to Jekyll + Github Pages](https://ju
 - **Link for language change in each entry**. If there are two languages ​​or more (I don't think I will ever write in Catalan or Italian :smile:) a link to change language ​​will be displayed.
 - **Global Link language change**. This functionality has been dropped. The pagination plugin [jekyll-paginate](https://jekyllrb.com/docs/pagination/) does not allow more than one page. Sure there are ways to do it, but I did not want to spend the time, it did not compensate me.
 
-![jekyll-paginate disclaimer](../images/pagination_jekyll.png)
+![jekyll-paginate disclaimer](/images/pagination_jekyll.png)
 
 ## Implementation
 
@@ -84,7 +84,7 @@ Then what I have done is to group by the field `ref`. This way you can know if t
 
 That beautiful code is [Liquid](https://jekyllrb.com/docs/liquid/), it may already be in the TOP 5 of my most hated languages. Keep in mind that I do the identation for clarity, it is not necessary. In order to display Liquid code in Jekill (escape it) you have to use `raw`.
 
-![Escape liquid code with raw tag](../images/show_liquid.png)
+![Escape liquid code with raw tag](/images/show_liquid.png)
 
 ### Filter by language
 

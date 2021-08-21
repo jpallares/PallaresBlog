@@ -20,10 +20,10 @@ The key idea for me is:
 
 An easy way to convince me is to show me data:
 
-![Active vs passive investing](../images/activevspassive.png)
+![Active vs passive investing](/images/activevspassive.png)
 [Source](https://www.betashares.com.au/insights/passive-investment-cyclical/)
 
-![Funds agains S&P 500 index after 5 years](../images/fundsVSmarkets.png)
+![Funds agains S&P 500 index after 5 years](/images/fundsVSmarkets.png)
 Source: The Four Pillars of Investing
 
 In this graphic we can see how for the last 15 years if you invested directly in the S&P500 Index passively you would have beaten all the actively managed funds. Take into account that they have to beat the market consistently and with a margin that allows them to earn their fees and still provide you some benefits. Index funds fees are really low since they just have to replicate the index. Do you research, look for bigger periods of time, the same pattern appears.

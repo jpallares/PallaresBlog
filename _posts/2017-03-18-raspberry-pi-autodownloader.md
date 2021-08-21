@@ -11,7 +11,7 @@ ref: autodownload
 
 I recently bought a Raspberry pi 3, it was improvised I had bought a Pine A64 but it was taking ages to arrive, then the new powerful version of the Pi appeared and I could not resist, Amazon and in couple days at home.
 
- ![Raspberry Pi 3](../images/raspberrypi.jpg "Raspberry Pi 3")
+ ![Raspberry Pi 3](/images/raspberrypi.jpg "Raspberry Pi 3")
 
 My plan for it was basically replicating the automatic downloading of torrents (movies and tv shows mainly). I had it in a PC so I had powered on all day. This way I would take advantage of the Pi low consumption. Also I would take the chance to refresh my unix knowledge.
 
@@ -48,7 +48,7 @@ I also configured a cronjob so in every reboot it automonts the network disk
 
 To close this first post about the Pi, I want to talk about the RPi-Monitor, as the name says it’s a monitor that tells you basic information about the status of the Pi:
 
-![RPi-Monitor](../images/rpi-monitor.png "RPi-Monitor")
+![RPi-Monitor](/images/rpi-monitor.png "RPi-Monitor")
 
 It’s perfect to detect if suddenly the CPU is under heavy load or it’s becoming too hot. It also helps track if you have the latest software installed.
 

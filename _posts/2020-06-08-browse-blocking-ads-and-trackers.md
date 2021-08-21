@@ -33,17 +33,17 @@ Since [Chrome and all his tracking](https://clark.com/technology/google-chrome-d
 
 This is an sports website I usually visit with a browser that has no blocking configured:
 
-![marca.com no block](../images/marca_browser.png)
+![marca.com no block](/images/marca_browser.png)
 
 Almost 50% of the website real-state are ads, apart from being annoying it also makes the loading slower and uses more data (concerning if you pay per MB like some data plans). If you are wondering if in a portable devices gets better, let me tell you it does not:
 
 ### Tablet:
 
-![marca.com iPad](../images/marca_ipad.png)
+![marca.com iPad](/images/marca_ipad.png)
 
 ### Phone:
 
-![marca.com phone](../images/marca_phone.png)
+![marca.com phone](/images/marca_phone.png)
 
 I used this site because the ads are really big and painful and I have even seen full screen ad-popups with a blurry X to close.
 
@@ -51,7 +51,7 @@ I used this site because the ads are really big and painful and I have even seen
 
 Not only the ads should worry you, you are also being tracked, for example in the same page we have:
 
-![marca.com trackers](../images/trackers.png)
+![marca.com trackers](/images/trackers.png)
 
 *"But Juan you are starting to be paranoid! Why do you worry about it? I don't have anything to hide"*. 
 
@@ -67,7 +67,7 @@ Trust me, better to block as much as possible. There is an area between living i
 
 Here you have the same web with Firefox and the [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) add-on.
 
-![marca.com ad free](../images/marca_adfree.png)
+![marca.com ad free](/images/marca_adfree.png)
 
 It loads faster and you get to see just the real content and good news, Firefox and uBlock can also be installed in iOS and Android. You can specify how strictily Firefox should block tracking. Another step to prevent tracking is using [DuckDuckGo](https://duckduckgo.com/) as default search engine. It comes already as an option in Firefox.
 

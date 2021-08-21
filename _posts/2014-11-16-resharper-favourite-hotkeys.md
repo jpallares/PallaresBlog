@@ -10,7 +10,7 @@ ref: resharper-hotkeys
 
 When coding in C# with Visual Studio usually you get enough help with Intellisense and [Visual Studio shortcuts](http://visualstudioshortcuts.com/), which there are plenty:
 
->![Visual Studio Shortcuts](../images/VisualStudioShortcuts.png "Visual Studio Shortcuts")
+>![Visual Studio Shortcuts](/images/VisualStudioShortcuts.png "Visual Studio Shortcuts")
 
 Anyway, it's very common to see developers using extra tools as [Resharper](https://www.jetbrains.com/resharper). I'll copy paste the definition from their website:
 
@@ -19,7 +19,7 @@ ReSharper is a renowned productivity tool that makes Microsoft Visual Studio a m
 
 I have used it in several projects, but in the last one it is compulsory and it's when I have seen it's true power. I'm going to go through my favourite shortcuts and tricks from Resharper, it's important to notice I use the "Visual Studio scheme" but there is also option for the "IntelliJ scheme".
 
->![Resharper 8 Keymap](../images/Resharper8Keymap.png "Resharper 8 Keymap")
+>![Resharper 8 Keymap](/images/Resharper8Keymap.png "Resharper 8 Keymap")
 
 OK, enough introductions, what are my favourite shortcuts? here you go:
 

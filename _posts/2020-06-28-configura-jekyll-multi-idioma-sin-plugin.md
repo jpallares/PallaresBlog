@@ -16,7 +16,7 @@ Han pasado casi 6 años desde que migré de [Blogger a Jekyll + Github Pages](ht
 - **Link para cambio de idioma en cada entrada**. Si hay dos idiomas o más (no creo que llegue a escribir en catalán o italiano :smile:) que se muestre un link para cambiar de idioma.
 - **Link global cambio de idioma**. Esta funcionalidad se ha caído. El plugin de paginación [jekyll-paginate](https://jekyllrb.com/docs/pagination/) no permite más de una página. Seguro hay formas de hacerlo, pero no he querido dedicar el tiempo, no me compensaba.
 
-![jekyll-paginate disclaimer](../images/pagination_jekyll.png)
+![jekyll-paginate disclaimer](/images/pagination_jekyll.png)
 
 ## Implementación
 
@@ -84,7 +84,7 @@ Después lo que he hecho ha sido agrupar por el campo `ref`. De esta manera pued
 
 Ese código tan bonito es [Liquid](https://jekyllrb.com/docs/liquid/), puede que ya esté en el TOP 5 de mis lenguajes más odiados. Tened en cuenta que el sangrado lo hago yo por claridad, no es necesario. Para poder mostrar código Liquid en Jekill, escaparlo, hay que usar `raw`.
 
-![Escape liquid code with raw tag](../images/show_liquid.png)
+![Escape liquid code with raw tag](/images/show_liquid.png)
 
 ### Filtra por idioma
 

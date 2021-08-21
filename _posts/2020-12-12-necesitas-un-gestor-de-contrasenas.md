@@ -15,7 +15,7 @@ Es muy común tener una o dos contraseñas para todo. Para el mail, para Netflix
 
 Estoy de acuerdo, son díficiles de recordar tantas contraseñas y más cuando nos piden que tengan números, símbolos, mayúsculas, sangre de uniconrnio, etc. Y no hablemos de los [CAPTCHA](https://es.wikipedia.org/wiki/Captcha).
 
-![meme CAPTCHA](../images/captcha.jpg)
+![meme CAPTCHA](/images/captcha.jpg)
 
 El problema con reutilizar la contraseña es muy sencillo de entender. Imagina esta situación:
 
@@ -41,10 +41,10 @@ Mi sugerencia, prueba con uno gratuíto y si ves que con el tiempo se te queda p
 
 **LARGA**, conforme más larga, más segura. Por ejemplo, MiPerroTobyLadraMucho es muchísimo más segura que S0yH4cker.
 
-![Tabla de tiempos de crackeo de contraseñas](../images/tiempo-password.png)
+![Tabla de tiempos de crackeo de contraseñas](/images/tiempo-password.png)
 
 Y, por favor, no uses tu cumpleaños, tu nombre, tu DNI o otros datos que se pueden obtener fácilmente. Tampoco uses las que usa todo el mundo:
 
-![contraseñas mas usadas de España](../images/Spain-Most-Used-Passwords.png)
+![contraseñas mas usadas de España](/images/Spain-Most-Used-Passwords.png)
 
 [Fuente](https://www.safetydetectives.com/blog/the-most-hacked-passwords-in-the-world/) y [Fuente](https://www.osi.es/es/contrasenas)

@@ -13,13 +13,13 @@ At my job, we have had recurring issues with [serverless](https://www.serverless
 
 When configuring Serverless to be deployed from Gitlab CI/CD. **Remember to not set AWS env variables as protected** (default option) since it will make the deployment fail and **it won’t give you a meaningful error**.
 
-![Gitlab protected variables](../images/gitlabProtectedVariables.png)
+![Gitlab protected variables](/images/gitlabProtectedVariables.png)
 
 ## Serverless offline plugins order is important
 
 Plugins order in serverless.yml matters. Rule of thumb, **serverless offline should be always one of the latest**.
 
-![Plugins Order](../images/PluginsOrder.png)
+![Plugins Order](/images/PluginsOrder.png)
 
 ## Serverless custom domain
 
@@ -35,7 +35,7 @@ The key point is specifying the stage when deploying.
 
 Check the file in ~/.aws. There you should configure different credentials depending on the IAM user/AWS account. If no profile is called, the default will be used.
 
-![AWS Access Key](../images/AWSaccessKey.png)
+![AWS Access Key](/images/AWSaccessKey.png)
 
 Then later you can use them like this:
 

@@ -33,7 +33,7 @@ The tools used to make it work were:
 
 They have a [Code of Conduct](https://socratesuk.org/code_of_conduct.html) that enforces a safe environment for everybody to participate.
 
-![SoCraTes schedule in Mural.co](../images/socrates_schedule.png)
+![SoCraTes schedule in Mural.co](/images/socrates_schedule.png)
 
 I'm used to check the conference schedule of the ones I attend, what are the subjects they are going to talk and then decide where to go during the day. In SoCraTes it works totally different, the talks are dedided the very same day and they are not the expert talking and the others listening, is more a like a conversation, a collaboration between all the attendants, sharing their experience. Somebody says "I wanna talk about DDD and how we are struggling in our company". In fact, according to the organizers the best talks come from people asking open questions that they need help with. Example: "How can we improve in pair programming?"
 
@@ -41,7 +41,7 @@ I'm used to check the conference schedule of the ones I attend, what are the sub
 
 I attended just two talks and both were related to the subject of remote pairing and **remote mob programming**. I'm [used to do pair programming](https://juan.pallares.me/remote-working-tips/) but working remotely has become harder to do it and as a result we do it less often than we would like. What was something new for me is mob programming, I just heard it once when the whole team was looking at one screen trying to solve a problem but I didn't know it was a thing.
 
-![SoCraTes Mob Programming](../images/mob_programming.png)
+![SoCraTes Mob Programming](/images/mob_programming.png)
 
 I learned we do pair programming in a very loose way, which does not have to be bad but is good to know how the strict way is and what other people in the community is doing. I was suprised that some guys mentioned they were switching the keyboard every 3 minutes when they were collocated and that they always use the driver and navigator role.
 

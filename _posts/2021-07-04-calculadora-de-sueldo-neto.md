@@ -15,7 +15,7 @@ Si eres como yo, para calcular el sueldo neto a partir del bruto recurrías al [
 
 Y si querías hilar fino, te creas un Excel con la típica tabla de tramos y te lo calculas manual:
 
-![Tramos IPRF Estatales](../images/tramos.jpg)
+![Tramos IPRF Estatales](/images/tramos.jpg)
 
 ¿Ya está, no? Pues no no...para calcular bien el sueldo neto de verdad hay muchos más detalles a tener en cuenta.
 
@@ -29,7 +29,7 @@ NO.
 
 **Es imposible que una subida de tu sueldo implique ganar menos en neto**. Los tramos son acumulables. Ejemplo, imaginemos que Paco cobra 24.000 cucas brutas al año:
 
-![Tramos explicados](../images/tramosExplicados.png)
+![Tramos explicados](/images/tramosExplicados.png)
 
 Los primeros 12.450€ tienen 19% de retención.
 Lo que va entre 12.450€ y 20.200€, es decir, los siguientes 7.750 machacantes tienen el 24% de retención.
@@ -41,7 +41,7 @@ Siempre la primera parte del salario va a tener un retención mas baja y sube pr
 
 Las calculadoras online normalmente solo te muestran unos tramos de IRPF. Esos tramos son los estatales y aplican a todos excepto vascos y navarros. Lo que no solemos tener en cuenta es que [cada autonomía tiene sus tramos](https://www.businessinsider.es/tablas-irpf-comunidades-autonomas-cuanto-pagas-renta-625415), y en TODAS son diferentes.
 
-![Tramos del estado y catalanes](../images/dosTramos.png)
+![Tramos del estado y catalanes](/images/dosTramos.png)
 
 La tabla Estatal típica solo aplica a españoles no residentes, si resides en territorio español, se usa la tabla de tu comunidad y la estatal (**con la mitad del porcentaje en cada tramo**).
 Siguiendo el ejemplo de Paco, si viviera en Barcelona, tendríamos el siguiente IRPF:

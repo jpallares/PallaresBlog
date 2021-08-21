@@ -14,7 +14,7 @@ _As to methods there may be a million and then some, but principles are few. The
 
 I added the quotes I picked while reading in [this section](https://juan.pallares.me/books/getting-things-done/). Let me go in detail about the parts I liked more.
 
-![Inception meme](../images/inception-meme.jpg)
+![Inception meme](/images/inception-meme.jpg)
 
 ## Write everything down
 This is the key concept of the book. Write down every task, idea, concept that crosses your mind and you feel can/could be important. Our brain is meant to have ideas not  to keep all these reminders there. It will generate stress. Implementing this tecnique you will have three benefits:
@@ -24,7 +24,7 @@ This is the key concept of the book. Write down every task, idea, concept that c
 
 ## 5 steps. Capture - Clarify - Organize - Reflect - Engage
 
-![Diagram of GTD flow, how to process tasks](../images/gtd-clarify-flow.png)
+![Diagram of GTD flow, how to process tasks](/images/gtd-clarify-flow.png)
 
 1. **Capture.**
 As mentioned before, capture everything. While reading this post has your mind wandered off into something not related? maybe it's a pending task that you have not yet captured.

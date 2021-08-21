@@ -30,7 +30,7 @@ And all this conversations lost in the middle of other valuable conversations th
 
 What if we create a channel specific for the teams MRs? oh even better let's handle the status with the reactions/emojis so it's more visual and faster. This was the agreement we made:
 
-![MR channel topic](../images/mr_channel_topic.png)
+![MR channel topic](/images/mr_channel_topic.png)
 
 The flow is the following:
 
@@ -44,6 +44,6 @@ The flow is the following:
 
 And this is how the channel looks after some time adapting to this new flow. Conversations about the MR go in a thread so there are only MR links in the messages in the channel.
 
-![MR channel](../images/mr_channel_example.png)
+![MR channel](/images/mr_channel_example.png)
 
 Finally, we restored the order and peace in our beloved team channel. What are the challenges you are facing these days?

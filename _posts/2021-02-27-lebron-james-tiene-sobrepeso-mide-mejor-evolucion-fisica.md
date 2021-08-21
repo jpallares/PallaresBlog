@@ -7,11 +7,11 @@ lang: es
 ref: fitness-tracking
 ---
 
-![Lebron James mostrando músculo](../images/lebronjames.jpg)
+![Lebron James mostrando músculo](/images/lebronjames.jpg)
 
 Con 2,06m y 113kg, el IMC (Índice de Masa Corporal) del cuatro veces campeón de la NBA indica que tiene sobrepeso. Personalmente no le veo sobrepeso por ningún sitio, sobrepeso de éxitos deportivos si me apuras.
 
-![IMC Lebron James](../images/IMCLebron.png)
+![IMC Lebron James](/images/IMCLebron.png)
 
 En todas las revisiones de salud anuales típicas del trabajo me han dado el valor de IMC. ¿Veis esta medida creíble? ¿Útil? Para mi es demasiado general y puede llegar a confundirte en algunos casos. Después de esta introducción que coquetea con el clickbait, voy a explicar cómo creo que es mejor medir la evolución física.
 
@@ -21,19 +21,19 @@ Es muy común pesarse y si se va bajando de peso asumir que estamos en el buen c
 
 Esto lo se porque lo he experimentado yo mismo. Desde el 2014 me voy pesando semanalmente (hay temporadas que se me pasa pero en general lo hago) y fué ese primer año que bajé bastante de peso y para mi era un exitazo
 
-![80kg septiembre 2014](../images/201480kg.png)
+![80kg septiembre 2014](/images/201480kg.png)
 
 3 años después si solo me fijo en el peso estoy igual. Pero realmente estaba en un estado de forma mucho mejor, ¿cómo puedo saberlo?
 
-![80kg marzo 2017](../images/201780kg.png)
+![80kg marzo 2017](/images/201780kg.png)
 
 ## Como mido la grasa?
 
 **Medir la grasa de forma precisa es bastante difícil**. Las básculas que dan el porcentaje de grasa tienen mucho margen de error, es solo una aproximación. Puedes probar también con un adipómetro pero es un proceso tedioso y también poco preciso. Hay formas precisa de medirla pero es con máquinas especializadas y por un elevador precio. ¿Qué uso yo? algo mucho más sencillo, **mido la cintura a la altura del ombligo y el pecho a la altura del pezón**. Ya esta, eso es todo. Acumulamos mucha grasa en el abdomen, si tenemos menos cintura que pecho, estamos en la buena dirección. Veamos los pesos anteriores acompañados de las medidas:
 
-![80kg septiembre 2014 con medidas](../images/201480kgCompleto.png)
+![80kg septiembre 2014 con medidas](/images/201480kgCompleto.png)
 
-![80kg marzo 2017 con medidas](../images/201780kgCompleto.png)
+![80kg marzo 2017 con medidas](/images/201780kgCompleto.png)
 
 Ignora las medidas extras (biceps, butlock, thigh), en 2017 tenía más pecho (2,5cm) y menos cintura (4,5cm), estaba mucho mejor. **Para tener un solo número de referencia de mi evolución física, hago la resta entre pecho y cintura** para calcular los "Johans".
 
@@ -59,7 +59,7 @@ Una vez ya tienes controladas esas medidas, si quieres dar un paso más puedes m
 
 Me encanta tener datos históricos, luego puedes hacer gráficos muy interesantes:
 
-![Grafico evolucion peso-cintura](../images/graficoPesoCintura.png)
+![Grafico evolucion peso-cintura](/images/graficoPesoCintura.png)
 
 En este gráfico comparo la evolución del peso y de la cintura. Se puede apreciar como en 2014 bajé peso pero no lo hice del todo bien, en 2017 decidí tomar el control de la alimentación (leer [Fitness Revolucionario](https://www.amazon.es/Fitness-revolucionario-Lecciones-ancestrales-Singulares/dp/8441540195/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=F387RQSNTRQP&dchild=1&keywords=fitness+revolucionario&qid=1610232623&sprefix=fitness+revo,aps,169&sr=8-1) esa Navidad fué clave) y bajé bastante de peso (sobretodo grasa) aunque ese mismo verano tuve una apendicitis que ya me remató y quedé un poco esquelético. Pude remontar y he venido manteniendo una cintura baja comparada a tiempos pre 2017. Idealmente, me gustaría subir peso sin subir cintura (o que suba muy poco) eso indicaría que estoy ganando sobretodo músculo, lo que me lleva a la conclusión.
 

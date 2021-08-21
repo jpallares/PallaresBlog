@@ -43,7 +43,7 @@ Saludos
 
 Fíjate en las subidas que se van produciendo y la próxima iba a ser 160€. Lo sé porque esta vez quise darles una oportunidad, llamé a Mapfre y les expliqué educadamente que o me bajaban el precio o me iba...da igual, seguían empecinados en que "han subido los costes". Llamé a otras aseguradoras, estilo Línea Directa, casi una hora al teléfono para ofrecerme algo más caro de lo que tenía. _"Por qué pensaste que habrían cambiado?"_ Me dije y volví a mi mail anual a Peris. Te responden con un mail donde adjuntan un presupuesto de este estilo:
 
-![Captura presupuesto Peris](../images/presupuesto_peris.png)
+![Captura presupuesto Peris](/images/presupuesto_peris.png)
 
 132€ de coste, unos 30€ de ahorro.
 
