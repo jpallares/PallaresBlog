@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Que no te engañen con tu seguro de moto o coche
 excerpt: Paga el mínimo posible cada año
 lang: es

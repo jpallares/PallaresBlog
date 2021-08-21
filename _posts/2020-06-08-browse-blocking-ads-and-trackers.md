@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Browse blocking ads and trackers
 tags:
   [

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: MEAN Hackaton
 tags: [MEAN, hackaton, mongodb, angular.js, express, node.js]
 header:

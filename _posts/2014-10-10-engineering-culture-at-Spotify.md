@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Engineering culture at Spotify
 modified: 2014-10-11
 tags: [agile, spotify, scrum]

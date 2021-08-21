@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Acknowledge your privilege
 tags:
   [

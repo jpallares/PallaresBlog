@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Net salary calculator
 layout: post
 tags: [sueldo, salario, neto, bruto, salary, calculator, net]

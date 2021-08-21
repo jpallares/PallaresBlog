@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Configure Jekyll to be multi-language without plugins
 excerpt: Basic multi-language hosted on Github Pages
 lang: en

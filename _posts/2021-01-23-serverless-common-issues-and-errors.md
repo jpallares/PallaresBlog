@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Serverless common issues and errors
 tags: [serverless, issues, common, errors]
 excerpt: protected variables, custom domains, plugins order, using it locally...

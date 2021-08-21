@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Automate your email processing with Google Apps Script
 tags:
   [

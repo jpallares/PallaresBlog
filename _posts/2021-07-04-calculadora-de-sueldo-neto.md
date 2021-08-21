@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Calculadora de sueldo neto
 tags: [sueldo, salario, neto, bruto, salary, calculator, net]
 excerpt: Cómo funciona realmente el cálculo del IRPF, seguridad social, etc.

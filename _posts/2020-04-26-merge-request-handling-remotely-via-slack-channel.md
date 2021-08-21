@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Merge request handling via slack channel
 tags:
   [

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Book - Atomic Habits - James Clear
 tags: [books, amotic, habits, productivity]
 excerpt: Tiny changes - Remarkable results

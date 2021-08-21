@@ -1,5 +1,4 @@
 ---
-layout: post
 title: RDP to Windows machine with PIN login
 tags: [RDP, Windows, PIN, MicrosoftAccount, login, hacks]
 excerpt: Don't lose the precious hour I lost

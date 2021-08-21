@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Some thoughts about pair programming
 tags: [pair programming, xp, developing, software]
 lang: en
