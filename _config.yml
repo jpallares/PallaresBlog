@@ -1,17 +1,3 @@
-title: Juan Pallarès Garbí
-email: juan@pallares.me
-description: >- # this means to ignore newlines until "baseurl:"
-  Juan Pallarès Garbí personal blog
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: juanpallares
-github_username: jpallares
-
-# Build settings
-theme: minimal-mistakes-jekyll
-plugins:
-  - jekyll-feed
-
 theme                  : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -110,9 +96,6 @@ author:
   location         : "Barcelona"
   email            : juan@pallares.me
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:juan@pallares.me"
     - label: "Buy me a coffee"
       icon: "fas fa-fw fa-coffee"
       url: "http://buymeacoffee.com/juanpallares"
