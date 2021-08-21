@@ -1,0 +1,10 @@
+# main links links
+main:
+  - title: Tu sueldo neto
+    url: https://tusueldoneto.pallares.me
+  - title: CV
+    url: /cv/
+  - title: Books
+    url: /books/
+#- title: Theme Setup
+#  url: /theme-setup/

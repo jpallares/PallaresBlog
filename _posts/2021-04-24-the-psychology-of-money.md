@@ -4,7 +4,6 @@ tags: [books, psychology, money, FIRE, hapiness, wealth, greed]
 excerpt: Your savings are the gap between your ego and your income.
 lang: en
 ref: psychomoney
-layout: post
 ---
 
 I've read several [books](https://juan.pallares.me/books/) lately but the one I liked more and want to review is: ["The Psychology of Money" by Morgan Hausel](https://www.amazon.es/Housel-M-Psychology-Money-Morgan/dp/0857197681). It's so interesting that I couldn't stop [highlighting sentences](https://juan.pallares.me/books/the-psychology-of-money-timeless-lessons-on-wealth-greed-and-happiness/).

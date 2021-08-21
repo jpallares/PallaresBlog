@@ -2,9 +2,8 @@
 permalink: /cv/
 title: CV
 header:
-  image: NYCweilah.jpg
+  image: /images/NYCweilah.jpg
   caption: "Photo credit: [weilah](http://500px.com/weilah)"
-layout: page
 ---
 
 **Notice** there is more detailed information in my [LinkedIn profile](http://linkedin.com/in/juanpallares)

@@ -1,6 +1,6 @@
 ---
 title: Books
-layout: page
+layout: single
 permalink: /books/
 collection: books
 ---

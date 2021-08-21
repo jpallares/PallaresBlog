@@ -1,6 +1,5 @@
 ---
 title: Net salary calculator
-layout: post
 tags: [sueldo, salario, neto, bruto, salary, calculator, net]
 excerpt: Personal income taxes in Spain explained
 lang: en
