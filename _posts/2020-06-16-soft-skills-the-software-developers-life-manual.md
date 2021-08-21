@@ -1,4 +1,6 @@
 ---
+toc: true
+toc_label: "Contents"
 title: Book - The software developer's life manual - John Z. Sonmez
 tags: [books, soft skills, software developer, career, personal brand, blog]
 excerpt: Some comments about the last book I read

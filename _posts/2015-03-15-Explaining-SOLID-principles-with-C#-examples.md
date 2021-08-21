@@ -1,4 +1,6 @@
 ---
+toc: true
+toc_label: "Contents"
 title: Explaining SOLID principles with C# examples
 tags: [SOLID, C#, code, examples]
 excerpt: SOLID are five basic principles for object-oriented programming and design. If applied, the solution is more likely to be easy to maintain and extend over time

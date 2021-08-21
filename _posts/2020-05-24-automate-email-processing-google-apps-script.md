@@ -1,4 +1,6 @@
 ---
+toc: true
+toc_label: "Contents"
 title: Automate your email processing with Google Apps Script
 tags:
   [

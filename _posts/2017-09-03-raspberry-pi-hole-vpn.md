@@ -1,4 +1,6 @@
 ---
+toc: true
+toc_label: "Contents"
 title: Raspberry Pi 3 III Pi-hole PiVPN
 tags: [ad, block, VPN, raspberry pi, openvpn, pi-hole, pivpn]
 excerpt: Filter all the ads in you local net (Pi-Hole) and create VPN server (PiVPN)

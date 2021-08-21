@@ -1,4 +1,6 @@
 ---
+toc: true
+toc_label: "Contents"
 title: Attending SoCraTes UK remotely
 tags:
   [

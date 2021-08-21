@@ -1,4 +1,6 @@
 ---
+toc: true
+toc_label: "Contents"
 title: Book - The Psychology of Money Timeless Lessons on Wealth, Greed, and Happiness - Morgan Hausel
 tags: [books, psychology, money, FIRE, hapiness, wealth, greed]
 excerpt: Your savings are the gap between your ego and your income.

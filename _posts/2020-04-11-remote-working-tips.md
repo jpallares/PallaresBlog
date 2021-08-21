@@ -1,4 +1,6 @@
 ---
+toc: true
+toc_label: "Contents"
 title: Remote working tips (COVID-19)
 tags: [remote work, covid-19, tips, job, cofinement]
 excerpt: Sharing my experience after 4 weeks of working remotely (and confined)
