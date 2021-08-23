@@ -5,6 +5,7 @@ permalink: /books/
 collection: books
 entries_layout: grid
 classes: wide
+sort_order: reverse
 ---
 
 This page is the result of parsing the "My Clippings.txt" file that Kindle devices autogenerate with the highlights you make.
