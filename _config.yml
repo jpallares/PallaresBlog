@@ -7,7 +7,7 @@ title                    : "Juan Pallarès Garbí"
 title_separator          : "-"
 subtitle                 : "Applying compound interest to everything"
 name                     : "Juan Pallarès Garbí"
-description              : "Juan Pallarès Garbí personal blog, I write about everything that comes to mind."
+description              : "Juan Pallarès blog. Kaizen."
 url                      : https://juan.pallares.me
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "/jpallares/PallaresBlog"
@@ -92,7 +92,11 @@ analytics:
 author:
   name             : "Juan Pallarès"
   avatar           : "/images/juanpallares.jpg"
-  bio              : "Software Engineer, technology, fitness and investment lover (not necessarily in that order)."
+  bio              : >
+    💻 &nbsp;Software Engineer <br />
+    🏋️‍♂️ &nbsp;Crossfit <br />
+    🥑 &nbsp;Realfood <br />
+    📈 &nbsp;Boglehead
   location         : "Barcelona"
   email            : juan@pallares.me
   links:

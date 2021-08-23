@@ -1,6 +1,6 @@
 ---
 title: C# in depth by Jon Skeet
-tags: [c#, jonskeet, book]
+tags: [c#, jonskeet, books]
 lang: en
 ref: c-sharp-in-depth
 ---
