@@ -2,6 +2,8 @@
 title: Saludable Mente
 bookauthor: Vázquez, Marcos
 date: 2021-07-21
+header:
+  teaser: 
 quotes:
   - date: 2021-07-03
     quote: un estudio en más de 1.000 individuos, el grupo del quintil de mayor grasa abdominal tenía el triple de riesgo de desarrollar demencia que el grupo del quintil con menos grasa abdominal.
@@ -169,6 +171,8 @@ quotes:
     quote: La jubilación debería ser el momento en el que más exprimes tu cerebro. A esa edad ya tienes claro con qué disfrutas y en qué quieres mejorar. Es una gran oportunidad, y lo que algunos hacen con ella es simplemente desconectar. Aprovecha el tiempo ocioso para realizar actividad física al aire libre y para ajustar tus ritmos circadianos. Cultiva tu círculo social e intenta aprender algo nuevo cada día.
 ---
 ## *{{page.bookauthor}}*
+
+<img width="200" src="{{ page.header.teaser }}"/>
 
 {% for quote in page.quotes reversed %}
 #### {{ quote.date | date: '%B %d, %Y' }}

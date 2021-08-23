@@ -2,6 +2,8 @@
 title: The Psychology of Money&#58; Timeless Lessons on Wealth, Greed, and Happiness
 bookauthor: Morgan Housel
 date: 2021-04-15
+header:
+  teaser: 
 quotes:
   - date: 2021-04-01
     quote: A genius who loses control of their emotions can be a financial disaster. The opposite is also true. Ordinary folks with no financial education can be wealthy if they have a handful of behavioral skills that have nothing to do with formal measures of intelligence.
@@ -161,6 +163,8 @@ quotes:
     quote: It doesn’t need to be more complicated than that for us. I like it simple. One of my deeply held investing beliefs is that there is little correlation between investment effort and investment results. The reason is because the world is driven by tails—a few variables account for the majority of returns. No matter how hard you try at investing you won’t do well if you miss the two or three things that move the needle in your strategy. The reverse is true. Simple investment strategies can work great as long as they capture the few things that are important to that strategy’s success. My investing strategy doesn’t rely on picking the right sector, or timing the next recession. It relies on a high savings rate, patience, and optimism that the global economy will create value over the next several decades. I spend virtually all of my investing effort thinking about those three things—especially the first two, which I can control. I’ve
 ---
 ## *{{page.bookauthor}}*
+
+<img width="200" src="{{ page.header.teaser }}"/>
 
 {% for quote in page.quotes reversed %}
 #### {{ quote.date | date: '%B %d, %Y' }}

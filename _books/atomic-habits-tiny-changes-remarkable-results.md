@@ -2,6 +2,8 @@
 title: Atomic Habits&#58; Tiny Changes, Remarkable Results
 bookauthor: James Clear
 date: 2020-12-21
+header:
+  teaser: 
 quotes:
   - date: 2020-11-28
     quote: changes that seem small and unimportant at first will compound into remarkable results if you’re willing to stick with them for years.
@@ -211,6 +213,8 @@ quotes:
     quote: This is the wisdom behind Seneca’s famous quote, “Being poor is not having too little, it is wanting more.” If your wants outpace your likes, you’ll always be unsatisfied. You’re perpetually putting more weight on the problem than the solution.
 ---
 ## *{{page.bookauthor}}*
+
+<img width="200" src="{{ page.header.teaser }}"/>
 
 {% for quote in page.quotes reversed %}
 #### {{ quote.date | date: '%B %d, %Y' }}

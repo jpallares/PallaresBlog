@@ -2,6 +2,8 @@
 title: The Culture Map
 bookauthor: Erin Meyer
 date: 2021-06-06
+header:
+  teaser: https://covers.openlibrary.org/b/isbn/1549184822-L.jpg
 quotes:
   - date: 2021-05-09
     quote: •  Communicating&#58; low-context vs. high-context •  Evaluating&#58; direct negative feedback vs. indirect negative feedback •  Persuading&#58; principles-first vs. applications-first •  Leading&#58; egalitarian vs. hierarchical •  Deciding&#58; consensual vs. top-down •  Trusting&#58; task-based vs. relationship-based •  Disagreeing&#58; confrontational vs. avoids confrontation •  Scheduling&#58; linear-time vs. flexible-time
@@ -47,6 +49,8 @@ quotes:
     quote: Sometimes cultural diversity on global teams creates fault lines, but other times that same level of diversity can be a great advantage. For example, suppose you are handed a project that has dozens of drop-dead deadlines and that therefore requires a linear-time approach. Get those people on your team with strong linear-time preferences to own that project. Another time you may have a client who is constantly changing his mind and serving him well requires flexibility and comfort with changing routes at the drop of a hat. Having team members who are strongly flexible-time (both because of their culture as well as their personalities) will help meet your client’s needs.
 ---
 ## *{{page.bookauthor}}*
+
+<img width="200" src="{{ page.header.teaser }}"/>
 
 {% for quote in page.quotes reversed %}
 #### {{ quote.date | date: '%B %d, %Y' }}

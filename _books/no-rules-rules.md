@@ -2,6 +2,8 @@
 title: No Rules Rules
 bookauthor: Reed Hastings
 date: 2021-08-15
+header:
+  teaser: https://covers.openlibrary.org/b/isbn/0593107381-L.jpg
 quotes:
   - date: 2021-07-30
     quote: Every employee has some talent. When we’d been 120 people, we had some employees who were extremely talented and others who were mildly talented. Overall we had a fair amount of talent dispersed across the workforce. After the layoffs, with only the most talented eighty people, we had a smaller amount of talent overall, but the amount of talent per employee was greater. Our talent “density” had increased. We learned that a company with really dense talent is a company everyone wants to work for. High performers especially thrive in environments where the overall talent density is high.
@@ -103,6 +105,8 @@ quotes:
     quote: But for those of you who are operating in the creative economy, where innovation, speed, and flexibility are the keys to success, consider throwing out the orchestra and focusing instead on making a different kind of music.
 ---
 ## *{{page.bookauthor}}*
+
+<img width="200" src="{{ page.header.teaser }}"/>
 
 {% for quote in page.quotes reversed %}
 #### {{ quote.date | date: '%B %d, %Y' }}

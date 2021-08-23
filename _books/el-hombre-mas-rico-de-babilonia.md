@@ -2,6 +2,8 @@
 title: El Hombre Mas Rico De Babilonia
 bookauthor: Clason, George S.
 date: 2021-06-25
+header:
+  teaser: https://covers.openlibrary.org/b/isbn/9789562913812-L.jpg
 quotes:
   - date: 2021-06-25
     quote: ¿Cómo puedes llamarte a ti mismo un hombre libre cuando tu debilidad te llevó a esto? Si un hombre tiene en su interior el alma de un esclavo, ¿no se convertirá en uno, no importa cómo nazca, ya que el agua busca su nivel? Si un hombre tiene en su interior el alma de un hombre libre, ¿no será respetado y honrado en su propia ciudad a pesar de su desgracia?
@@ -11,6 +13,8 @@ quotes:
     quote: el alma de un hombre libre ve la vida como una serie de problemas a resolver y los resuelve, mientras que el alma de un esclavo se queja.
 ---
 ## *{{page.bookauthor}}*
+
+<img width="200" src="{{ page.header.teaser }}"/>
 
 {% for quote in page.quotes reversed %}
 #### {{ quote.date | date: '%B %d, %Y' }}
