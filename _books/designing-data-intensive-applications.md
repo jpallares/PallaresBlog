@@ -2,6 +2,7 @@
 title: Designing Data-Intensive Applications
 bookauthor: Kleppmann, Martin
 date: 2021-03-02
+position: 10
 quotes:
   - date: 2020-12-23
     quote: If you are designing a data system or service, a lot of tricky questions arise. How do you ensure that the data remains correct and complete, even when things go wrong internally? How do you provide consistently good performance to clients, even when parts of your system are degraded? How do you scale to handle an increase in load? What does a good API for the service look like?
@@ -388,7 +389,7 @@ quotes:
   - date: 2021-02-28
     quote: By themselves, TCP, database transactions, and stream processors cannot entirely rule out these duplicates. Solving the problem requires an end-to-end solution&#58; a transaction identifier that is passed all the way from the end-user client to the database.
   - date: 2021-02-28
-    quote: The end-to-end argument also applies to checking the integrity of data&#58; checksums built into Ethernet, TCP, and TLS can detect corruption of packets in the network, but they cannot detect corruption due to bugs in the software at the sending and receiving ends of the network connection, or corruption on the disks where the data is stored. If you want to catch all possible sources of data corruption, you also need end-to-end checksums. A similar argument applies with encryption - the password on your home WiFi network protects against people snooping your WiFi traffic, but not against attackers elsewhere on the internet; TLS/SSL between your client and the server protects against network attackers, but not against compromises of the server. Only end-to-end encryption and authentication can protect against all of these things.
+    quote: The end-to-end argument also applies to checking the integrity of data&#58; checksums built into Ethernet, TCP, and TLS can detect corruption of packets in the network, but they cannot detect corruption due to bugs in the software at the sending and receiving ends of the network connection, or corruption on the disks where the data is stored. If you want to catch all possible sources of data corruption, you also need end-to-end checksums. A similar argument applies with encryption [55]&#58; the password on your home WiFi network protects against people snooping your WiFi traffic, but not against attackers elsewhere on the internet; TLS/SSL between your client and the server protects against network attackers, but not against compromises of the server. Only end-to-end encryption and authentication can protect against all of these things.
   - date: 2021-03-01
     quote: In slogan form&#58; violations of timeliness are “eventual consistency,” whereas violations of integrity are “perpetual inconsistency.”
   - date: 2021-03-01
@@ -398,7 +399,7 @@ quotes:
   - date: 2021-03-01
     quote: an interesting property of the event-based dataflow systems that we have discussed in this chapter is that they decouple timeliness and integrity.
   - date: 2021-03-01
-    quote: These applications do require integrity&#58; you would not want to lose a reservation, or have money disappear due to mismatched credits and debits. But they don’t require timeliness on the enforcement of the constraint, if you have sold more items than you have in the warehouse, you can patch up the problem after the fact by apologizing.
+    quote: These applications do require integrity&#58; you would not want to lose a reservation, or have money disappear due to mismatched credits and debits. But they don’t require timeliness on the enforcement of the constraint&#58; if you have sold more items than you have in the warehouse, you can patch up the problem after the fact by apologizing.
   - date: 2021-03-01
     quote: these observations mean that dataflow systems can provide the data management services for many applications without requiring coordination, while still giving strong integrity guarantees. Such coordination-avoiding data systems have a lot of appeal&#58; they can achieve better performance and fault tolerance than systems that need to perform synchronous coordination
   - date: 2021-03-01

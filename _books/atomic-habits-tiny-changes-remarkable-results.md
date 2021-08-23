@@ -2,6 +2,7 @@
 title: Atomic Habits&#58; Tiny Changes, Remarkable Results
 bookauthor: James Clear
 date: 2020-12-21
+position: 11
 quotes:
   - date: 2020-11-28
     quote: changes that seem small and unimportant at first will compound into remarkable results if you’re willing to stick with them for years.
@@ -36,11 +37,13 @@ quotes:
   - date: 2020-12-03
     quote: take away the vibrancy and spontaneity of life?” Hardly. Such questions set up a false dichotomy. They make you think that you have to choose between building habits and attaining freedom. In reality, the two complement each other. Habits do not restrict freedom. They create it. In fact, the people who don’t have their habits handled are often the ones with the least amount of freedom. Without good financial habits, you will always be struggling for the next dollar. Without good health habits, you will always seem to be short on energy. Without good learning habits, you will always feel like you’re behind the curve. If
   - date: 2020-12-03
-    quote: If you’re always being forced to make decisions about simple tasks—when should I work out, where do I go to write, when do I pay the bills—then you have less time for freedom.
+    quote: If you’re always being forced to
+  - date: 2020-12-03
+    quote: make decisions about simple tasks—when should I work out, where do I go to write, when do I pay the bills—then you have less time for freedom.
   - date: 2020-12-03
     quote: The cue is about noticing the reward. The craving is about wanting the reward. The response is about obtaining the reward. We chase rewards because they serve two purposes&#58; (1) they satisfy us and (2) they teach us.
   - date: 2020-12-04
-    quote: The 1st law (Cue) Make it obvious. The 2nd law (Craving) Make it attractive. The 3rd law (Response) Make it easy. The 4th law (Reward) Make it satisfying. We can invert these laws to learn how to break a bad habit. How to Break a Bad Habit Inversion of the 1st law (Cue) Make it invisible. Inversion of the 2nd law (Craving) Make it unattractive. Inversion of the 3rd law (Response) Make it difficult. Inversion of the 4th law (Reward) Make it
+    quote: The 1st law (Cue)&#58; Make it obvious. The 2nd law (Craving)&#58; Make it attractive. The 3rd law (Response)&#58; Make it easy. The 4th law (Reward)&#58; Make it satisfying. We can invert these laws to learn how to break a bad habit. How to Break a Bad Habit Inversion of the 1st law (Cue)&#58; Make it invisible. Inversion of the 2nd law (Craving)&#58; Make it unattractive. Inversion of the 3rd law (Response)&#58; Make it difficult. Inversion of the 4th law (Reward)&#58; Make it
   - date: 2020-12-04
     quote: Generally speaking, good habits will have net positive outcomes.
   - date: 2020-12-04
@@ -57,6 +60,8 @@ quotes:
     quote: Habit stacking is a strategy you can use to pair a new habit with a current habit.
   - date: 2020-12-05
     quote: If you want to drink more water, fill up a few water bottles each morning and place them in common locations around the house.
+  - date: 2020-12-06
+    quote: Create a separate space for work, study, exercise, entertainment, and cooking. The mantra I find useful is “One space, one use.” When I started my career as an entrepreneur,
   - date: 2020-12-06
     quote: Create a separate space for work, study, exercise, entertainment, and cooking. The mantra I find useful is “One space, one use.”
   - date: 2020-12-06
@@ -118,6 +123,8 @@ quotes:
   - date: 2020-12-12
     quote: I often find myself gravitating toward social media during any downtime. If I feel bored for just a fraction of a second, I reach for my phone. It’s easy to write off these minor distractions as “just taking a break,” but over time they can accumulate into a serious issue. The constant tug of “just one more minute” can prevent me from doing anything of consequence. (I’m not the only one. The average person spends over two hours per day on social media. What could you do with an extra six hundred hours per year?)
   - date: 2020-12-12
+    quote: Once my bad habit became impossible, I discovered that I did actually have the motivation to work on more meaningful tasks. After I removed the mental candy from my environment, it became
+  - date: 2020-12-12
     quote: Once my bad habit became impossible, I discovered that I did actually have the motivation to work on more meaningful tasks. After I removed the mental candy from my environment, it became much easier to eat the healthy stuff. When working in your favor, automation
   - date: 2020-12-12
     quote: Stories like these are evidence of the Cardinal Rule of Behavior Change&#58; What is rewarded is repeated. What is punished is avoided. You learn what to do in the future based on what you were rewarded for doing (or punished for doing) in the past. Positive emotions cultivate habits. Negative emotions destroy them.
@@ -148,7 +155,7 @@ quotes:
   - date: 2020-12-13
     quote: Goodhart’s Law. Named after the economist Charles Goodhart, the principle states, “When a measure becomes a target, it ceases to be a good measure.” Measurement is only useful when it guides you and adds context to a larger picture, not when it consumes you. Each number is simply one piece of feedback in the overall system.
   - date: 2020-12-14
-    quote: He wrote up a habit contract between himself, his wife, and his personal trainer. The first version read, “Bryan’s 1 objective for Q1 of 2017 is to start eating correctly again so he feels better, looks better, and is able to hit his long-term goal of 200 pounds at 10% body fat.”
+    quote: He wrote up a habit contract between himself, his wife, and his personal trainer. The first version read, “Bryan’s &#351 objective for Q1 of 2017 is to start eating correctly again so he feels better, looks better, and is able to hit his long-term goal of 200 pounds at 10% body fat.”
   - date: 2020-12-14
     quote: An accountability partner can create an immediate cost to inaction. We care deeply about what others think of us, and we do not want others to have a lesser opinion of us.
   - date: 2020-12-14

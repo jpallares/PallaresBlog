@@ -2,6 +2,7 @@
 title: Turn the Ship Around!&#58; A True Story of Turning Followers into Leaders
 bookauthor: L. David Marquet
 date: 2021-06-20
+position: 4
 quotes:
   - date: 2021-06-08
     quote: In our modern world, the most important work we do is cognitive; so, it’s not surprising that a structure developed for physical work isn’t optimal for intellectual work. People who are treated as followers have the expectations of followers and act like followers. As
@@ -20,7 +21,7 @@ quotes:
   - date: 2021-06-16
     quote: to write those things?” “Well, look, I may be wrong, but let’s say something doesn’t happen—some report does not get sent or a school date changes and we don’t catch it—and some inspection team is looking at the records. The captain can say, ‘I told him to do it,’ and bully for him. He gets good marks for being very involved, having his fingerprints everywhere. But from my perspective, it’s not helpful; it actually hurts. Not only are they telling me to do stuff I already know I have to do, but also frequently I get told exactly how and when to do it. That takes away any decision-making opportunities I might have.”
   - date: 2021-06-19
-    quote: Here is a short list of “disempowered phrases” that passive followers use&#58; Request permission to . . . I would like to . . . What should I do about . . . Do you think we should . . . Could we . . . Here is a short list of “empowered phrases” that active doers use - I intend to . . . I plan on . . . I will . . . We will . . .
+    quote: Here is a short list of “disempowered phrases” that passive followers use&#58; Request permission to . . . I would like to . . . What should I do about . . . Do you think we should . . . Could we . . . Here is a short list of “empowered phrases” that active doers use&#58; I intend to . . . I plan on . . . I will . . . We will . . .
   - date: 2021-06-20
     quote: It showed me how efforts to improve the process made the organization more efficient, while efforts to monitor the process made the organization less efficient.
 ---

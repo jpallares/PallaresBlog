@@ -2,6 +2,7 @@
 title: The Culture Map
 bookauthor: Erin Meyer
 date: 2021-06-06
+position: 5
 quotes:
   - date: 2021-05-09
     quote: •  Communicating&#58; low-context vs. high-context •  Evaluating&#58; direct negative feedback vs. indirect negative feedback •  Persuading&#58; principles-first vs. applications-first •  Leading&#58; egalitarian vs. hierarchical •  Deciding&#58; consensual vs. top-down •  Trusting&#58; task-based vs. relationship-based •  Disagreeing&#58; confrontational vs. avoids confrontation •  Scheduling&#58; linear-time vs. flexible-time
