@@ -4,6 +4,8 @@ toc_label: "Contents"
 title: Necesitas un gestor de contraseñas
 tags: [password, manager, dashlane, bitwarden]
 excerpt: Navega más seguro y recuerda solo una contraseña.
+header:
+  teaser: /images/Spain-Most-Used-Passwords.png
 lang: es
 ref: password-manager
 ---
