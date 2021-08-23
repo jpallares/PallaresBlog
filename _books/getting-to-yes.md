@@ -2,6 +2,8 @@
 title: Getting to Yes
 bookauthor: Fisher, Roger; Ury, William L.
 date: 2016-02-10
+header:
+  teaser: https://covers.openlibrary.org/b/isbn/1844131467-L.jpg
 quotes:
   - date: 2016-01-27
     quote: If you want someone to listen and understand your reasoning, give your interests and reasoning first and your conclusions or proposals later.
@@ -27,6 +29,8 @@ quotes:
     quote: In principled negotiation you should present all your reasons first before offering a proposal.
 ---
 ## *{{page.bookauthor}}*
+
+<img width="300" src="{{ page.header.teaser }}"/>
 
 {% for quote in page.quotes reversed %}
 #### {{ quote.date | date: '%B %d, %Y' }}

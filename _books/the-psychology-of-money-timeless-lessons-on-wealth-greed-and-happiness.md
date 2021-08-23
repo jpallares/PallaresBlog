@@ -3,7 +3,7 @@ title: The Psychology of Money&#58; Timeless Lessons on Wealth, Greed, and Happi
 bookauthor: Morgan Housel
 date: 2021-04-15
 header:
-  teaser: 
+  teaser: https://covers.openlibrary.org/b/olid/OL29412746M-L.jpg
 quotes:
   - date: 2021-04-01
     quote: A genius who loses control of their emotions can be a financial disaster. The opposite is also true. Ordinary folks with no financial education can be wealthy if they have a handful of behavioral skills that have nothing to do with formal measures of intelligence.
@@ -164,7 +164,7 @@ quotes:
 ---
 ## *{{page.bookauthor}}*
 
-<img width="200" src="{{ page.header.teaser }}"/>
+<img width="300" src="{{ page.header.teaser }}"/>
 
 {% for quote in page.quotes reversed %}
 #### {{ quote.date | date: '%B %d, %Y' }}

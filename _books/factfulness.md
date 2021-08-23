@@ -2,6 +2,8 @@
 title: Factfulness
 bookauthor: Hans Rosling, Ola Rosling, Anna Rosling
 date: 2020-09-19
+header:
+  teaser: https://covers.openlibrary.org/b/isbn/1250123828-L.jpg
 quotes:
   - date: 2020-09-01
     quote: Factfulness, like a healthy diet and regular exercise, can and should become part of your daily life.

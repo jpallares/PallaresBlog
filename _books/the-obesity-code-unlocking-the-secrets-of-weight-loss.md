@@ -2,6 +2,8 @@
 title: The Obesity Code&#58; Unlocking the Secrets of Weight Loss
 bookauthor: Jason Fung
 date: 2017-04-12
+header:
+  teaser: https://covers.openlibrary.org/b/olid/OL26462211M-L.jpg
 quotes:
   - date: 2017-03-21
     quote: Dietary fat is bad. No, dietary fat is good. There are good fats and bad fats. Carbohydrates are bad. No, carbohydrates are good. There are good carbs and bad carbs. You should eat more meals a day. No, you should eat fewer meals a day. Count your calories. No, calories don’t count. Milk is good for you. No, milk is bad for you. Meat is good for you. No, meat is bad for you.
@@ -33,6 +35,8 @@ quotes:
     quote: THERE ARE FIVE basic steps in weight loss&#58; Reduce your consumption of added sugars. Reduced your consumption of refined grains. Moderate your protein intake. Increase your consumption of natural fats. Increase your consumption of fiber and vinegar.
 ---
 ## *{{page.bookauthor}}*
+
+<img width="300" src="{{ page.header.teaser }}"/>
 
 {% for quote in page.quotes reversed %}
 #### {{ quote.date | date: '%B %d, %Y' }}

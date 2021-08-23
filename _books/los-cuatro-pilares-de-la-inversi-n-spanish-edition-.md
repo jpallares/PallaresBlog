@@ -2,6 +2,8 @@
 title: Los cuatro pilares de la inversión (Spanish Edition)
 bookauthor: Bernstein, William
 date: 2020-03-22
+header:
+  teaser: https://covers.openlibrary.org/b/olid/OL25927228M-L.jpg
 quotes:
   - date: 2020-02-03
     quote: A lo largo de los últimos doscientos años, cada 1% desembolsado anualmente reduce la cantidad final por un factor de ocho. Por ejemplo, una reducción del 1% en los beneficios reducirá la cantidad de beneficio final de 23 millones de dólares a unos 3 millones, mientras que un 2% de reducción lo dejará en unos 400.000 dólares.
@@ -15,6 +17,8 @@ quotes:
     quote: Finalmente, dado que nuestras estimaciones en torno a la rentabilidad futura de acciones y bonos son muy rigurosas, no tiene mucho sentido poseer más del 80% de acciones, más allá de lo agresivo y tolerante al riesgo que usted sea.
 ---
 ## *{{page.bookauthor}}*
+
+<img width="300" src="{{ page.header.teaser }}"/>
 
 {% for quote in page.quotes reversed %}
 #### {{ quote.date | date: '%B %d, %Y' }}

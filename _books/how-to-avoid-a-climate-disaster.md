@@ -3,7 +3,7 @@ title: How to Avoid a Climate Disaster
 bookauthor: Bill Gates
 date: 2021-03-27
 header:
-  teaser: https://covers.openlibrary.org/b/isbn/0241448301-L.jpg
+  teaser: https://covers.openlibrary.org/b/isbn/9780385546133-L.jpg
 quotes:
   - date: 2021-03-11
     quote: The world needs to provide more energy so the poorest can thrive, but we need to provide that energy without releasing any more greenhouse gases.
@@ -68,7 +68,7 @@ quotes:
 ---
 ## *{{page.bookauthor}}*
 
-<img width="200" src="{{ page.header.teaser }}"/>
+<img width="300" src="{{ page.header.teaser }}"/>
 
 {% for quote in page.quotes reversed %}
 #### {{ quote.date | date: '%B %d, %Y' }}

@@ -2,6 +2,8 @@
 title: C# in Depth
 bookauthor: Jon Skeet
 date: 2014-12-31
+header:
+  teaser: https://covers.openlibrary.org/b/isbn/1935182471-L.jpg
 quotes:
   - date: 2014-12-31
     quote: In essence, variance is about being able to use an object of one type as if it were another, in a type-safe way. You’re used to variance in terms of normal inheritance&#58; if a method has a declared return type of Stream, you can return a MemoryStream from the implementation, for example. Generic
@@ -13,6 +15,8 @@ quotes:
     quote: REPL—a read, evaluate, print loop.
 ---
 ## *{{page.bookauthor}}*
+
+<img width="300" src="{{ page.header.teaser }}"/>
 
 {% for quote in page.quotes reversed %}
 #### {{ quote.date | date: '%B %d, %Y' }}

@@ -3,7 +3,7 @@ title: Saludable Mente
 bookauthor: Vázquez, Marcos
 date: 2021-07-21
 header:
-  teaser: 
+  teaser: https://covers.openlibrary.org/b/isbn/8425359473-L.jpg
 quotes:
   - date: 2021-07-03
     quote: un estudio en más de 1.000 individuos, el grupo del quintil de mayor grasa abdominal tenía el triple de riesgo de desarrollar demencia que el grupo del quintil con menos grasa abdominal.
@@ -172,7 +172,7 @@ quotes:
 ---
 ## *{{page.bookauthor}}*
 
-<img width="200" src="{{ page.header.teaser }}"/>
+<img width="300" src="{{ page.header.teaser }}"/>
 
 {% for quote in page.quotes reversed %}
 #### {{ quote.date | date: '%B %d, %Y' }}

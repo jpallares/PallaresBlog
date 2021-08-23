@@ -2,6 +2,8 @@
 title: The Scrum Guide
 bookauthor: Ken Schwaber
 date: 2016-04-10
+header:
+  teaser: 
 quotes:
   - date: 2016-04-10
     quote: Only the Product Owner has the authority to cancel the Sprint,
@@ -11,6 +13,8 @@ quotes:
     quote: The Scrum Master enforces the rule that only Development Team members participate in the Daily Scrum.
 ---
 ## *{{page.bookauthor}}*
+
+<img width="300" src="{{ page.header.teaser }}"/>
 
 {% for quote in page.quotes reversed %}
 #### {{ quote.date | date: '%B %d, %Y' }}

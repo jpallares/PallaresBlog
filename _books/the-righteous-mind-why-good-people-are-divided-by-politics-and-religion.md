@@ -2,6 +2,8 @@
 title: The Righteous Mind&#58; Why Good People Are Divided by Politics and Religion
 bookauthor: Jonathan Haidt
 date: 2019-04-07
+header:
+  teaser: https://covers.openlibrary.org/b/olid/OL26085851M-L.jpg
 quotes:
   - date: 2018-12-09
     quote: “skilled arguers … are not after the truth but after arguments supporting their views.”50
@@ -19,6 +21,8 @@ quotes:
     quote: Our reasoning is flawed and prone to overconfidence, so it’s dangerous to construct theories based on pure reason, unconstrained by intuition and historical experience
 ---
 ## *{{page.bookauthor}}*
+
+<img width="300" src="{{ page.header.teaser }}"/>
 
 {% for quote in page.quotes reversed %}
 #### {{ quote.date | date: '%B %d, %Y' }}

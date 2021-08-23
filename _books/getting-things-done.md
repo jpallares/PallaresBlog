@@ -2,6 +2,8 @@
 title: Getting Things Done. The Art of Stress-free Productivity
 bookauthor: David Allen
 date: 2020-08-24
+header:
+  teaser: https://covers.openlibrary.org/b/isbn/1508215537-L.jpg
 quotes:
   - date: 2020-08-04
     quote: As to methods there may be a million and then some, but principles are few. The man who grasps principles can successfully select his own methods. The man who tries methods, ignoring principles, is sure to have trouble. 
@@ -68,6 +70,8 @@ quotes:
 ---
 
 ## *{{page.bookauthor}}*
+
+<img width="300" src="{{ page.header.teaser }}"/>
 
 {% for quote in page.quotes reversed %}
 

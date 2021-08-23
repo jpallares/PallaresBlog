@@ -2,6 +2,8 @@
 title: How To Win Friends And Influence People
 bookauthor: Carnegie, Dale
 date: 2016-03-22
+header:
+  teaser: https://covers.openlibrary.org/b/olid/OL13657975M-L.jpg
 quotes:
   - date: 2016-03-22
     quote: Any fool can criticise, condemn and complain – and most fools do. But it takes character and self-control to be understanding and forgiving. ‘A great man shows his
@@ -11,6 +13,8 @@ quotes:
     quote: ‘If there is any one secret of success, it lies in the ability to get the other person’s point of view and see things from that person’s angle as well as from your own.’
 ---
 ## *{{page.bookauthor}}*
+
+<img width="300" src="{{ page.header.teaser }}"/>
 
 {% for quote in page.quotes reversed %}
 #### {{ quote.date | date: '%B %d, %Y' }}

@@ -3,7 +3,7 @@ title: Atomic Habits&#58; Tiny Changes, Remarkable Results
 bookauthor: James Clear
 date: 2020-12-21
 header:
-  teaser: 
+  teaser: https://covers.openlibrary.org/b/isbn/9780735211308-L.jpg
 quotes:
   - date: 2020-11-28
     quote: changes that seem small and unimportant at first will compound into remarkable results if you’re willing to stick with them for years.
@@ -214,7 +214,7 @@ quotes:
 ---
 ## *{{page.bookauthor}}*
 
-<img width="200" src="{{ page.header.teaser }}"/>
+<img width="300" src="{{ page.header.teaser }}"/>
 
 {% for quote in page.quotes reversed %}
 #### {{ quote.date | date: '%B %d, %Y' }}
