@@ -1,4 +1,4 @@
-### Jekyll blog hosted in Vercel
+# Jekyll blog hosted in Vercel
 
 Created from scratch using latest [Minimal Mistakes Theme](https://mmistakes.github.io/minimal-mistakes/) and then added all the old posts from previous blog ([outdated Jekyll and Minimal Mistakes theme](https://github.com/jpallares/minimal-mistakes))
 

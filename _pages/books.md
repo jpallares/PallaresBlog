@@ -1,8 +1,10 @@
 ---
 title: Books
-layout: single
+layout: collection
 permalink: /books/
 collection: books
+entries_layout: grid
+classes: wide
 ---
 
 This page is the result of parsing the "My Clippings.txt" file that Kindle devices autogenerate with the highlights you make.
@@ -10,7 +12,4 @@ I created a Nodejs app called [MyClippings to Markdown](https://gitlab.com/jpall
 
 I lost some clippings when I bought a new Kindle. Expect to find books in English and Spanish from very random topics:
 
-{% for book in site.books reversed %}
-### [{{ book.title }}]({{ book.url }})
-_{{ book.bookauthor }}_
-{% endfor %}
+

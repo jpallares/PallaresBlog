@@ -5,7 +5,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Juan Pallarès Garbí"
 title_separator          : "-"
-subtitle                 : "Kaizen"
+subtitle                 : "Applying compound interest to everything"
 name                     : "Juan Pallarès Garbí"
 description              : "Juan Pallarès Garbí personal blog, I write about everything that comes to mind."
 url                      : https://juan.pallares.me
@@ -92,7 +92,7 @@ analytics:
 author:
   name             : "Juan Pallarès"
   avatar           : "/images/juanpallares.jpg"
-  bio              : "Software Engineer, technology and football lover from Barcelona."
+  bio              : "Software Engineer, technology, fitness and investment lover (not necessarily in that order)."
   location         : "Barcelona"
   email            : juan@pallares.me
   links:
@@ -251,6 +251,7 @@ compress_html:
 
 collections:
   books:
+    sort_by: date reverse
     output: true
     permalink: /:collection/:path/
 
