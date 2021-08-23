@@ -4,6 +4,8 @@ toc_label: "Contents"
 title: Book - Factfulness - Hans Rosling, Ola Rosling, Anna Rosling
 tags: [books, factfulness, facts, fake news, clickbait]
 excerpt: Ten reasons we're wrong about the world and why things are better than you think
+header:
+  teaser: /images/world_pin_code.png
 lang: en
 ref: factfulness
 ---

@@ -1,6 +1,8 @@
 ---
 title: Soft Skills&#58; The software developer's life manual
 bookauthor: John Sonmez
+header:
+  teaser: /images/softskillsbook.jpg
 date: 2020-06-07
 quotes:
   - date: 2020-04-03

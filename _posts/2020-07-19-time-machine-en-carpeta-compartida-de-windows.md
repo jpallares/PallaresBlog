@@ -3,6 +3,8 @@ toc: true
 toc_label: "Contents"
 title: Copia de seguridad de tu Mac (Time Machine) en una carpeta compartida de Windows
 excerpt: Configura una carpeta compartido de Windows como Time Machine poder hacer copias de seguridad de tu Mac.
+header:
+  teaser: /images/connect_server.png
 tags: [MacOS, Windows, timemachine, shared, drive]
 lang: es
 ref: timemachine

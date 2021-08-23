@@ -4,6 +4,8 @@ toc_label: "Contents"
 title: Book - Getting Things Done. The Art of Stress-free Productivity - David Allen
 tags: [books, productivity, GTD, TODO, Todoist, growth, career]
 excerpt: Great tips from one of the best books about productivity.
+header:
+  teaser: /images/gtd-clarify-flow.png
 lang: en
 ref: getting-things-done
 ---

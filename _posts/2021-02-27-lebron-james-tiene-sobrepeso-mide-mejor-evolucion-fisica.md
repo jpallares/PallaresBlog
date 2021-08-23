@@ -4,6 +4,8 @@ toc_label: "Contents"
 title: Lebron James tiene sobrepeso - Mide mejor tu evolución física
 tags: [health, salud, sport, fitness, imc, bmi, training, tracking]
 excerpt: Mide mejor tu evolución física fijándote en lo que realmente importa.
+header:
+  teaser: /images/lebronjames.jpg
 lang: es
 ref: fitness-tracking
 ---

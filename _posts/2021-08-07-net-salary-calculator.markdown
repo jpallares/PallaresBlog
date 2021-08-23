@@ -4,6 +4,8 @@ toc_label: "Contents"
 title: Net salary calculator
 tags: [sueldo, salario, neto, bruto, salary, calculator, net]
 excerpt: Personal income taxes in Spain explained
+header:
+  teaser: /images/tramos.jpg
 lang: en
 ref: sueldo-neto
 ---

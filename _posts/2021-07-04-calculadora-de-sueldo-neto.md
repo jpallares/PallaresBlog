@@ -4,6 +4,8 @@ toc_label: "Contents"
 title: Calculadora de sueldo neto
 tags: [sueldo, salario, neto, bruto, salary, calculator, net]
 excerpt: Cómo funciona realmente el cálculo del IRPF, seguridad social, etc.
+header:
+  teaser: /images/tramos.jpg
 lang: es
 ref: sueldo-neto
 ---
@@ -103,6 +105,6 @@ Espero haber aclarado un poco como funciona este cálculo, es importanto conocer
 #### Fuentes
 
 - [Tablas de IRPF por comunidades autónomas](https://www.businessinsider.es/tablas-irpf-comunidades-autonomas-cuanto-pagas-renta-625415)
-- [Como se cálcula el porcantaje de IRPF](https://ekuatio.com/como-se-calcula-el-porcentaje-de-irpf-en-la-nomina/)
+- [Cómo se cálcula el porcantaje de IRPF](https://ekuatio.com/como-se-calcula-el-porcentaje-de-irpf-en-la-nomina/)
 - [Cálculo de rentenciones](https://www2.agenciatributaria.gob.es/wlpl/PRET-R170/index.zul)
 - [Cuánto puedes desgravarte en la renta por tus hijos](https://www.finect.com/usuario/Josetrecet/articulos/hijos-declaracion-renta)
