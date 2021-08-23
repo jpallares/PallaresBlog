@@ -2,7 +2,6 @@
 title: FailSafe Investing
 bookauthor: Harry Browne
 date: 2021-03-10
-position: 9
 quotes:
   - date: 2021-03-06
     quote: The investment expert with the perfect record up to now will lose his touch as soon as you start acting on his advice.
@@ -17,12 +16,9 @@ quotes:
   - date: 2021-03-10
     quote: The Permanent Portfolio is for the money that's precious to you — the capital you're counting on for retirement or to pass on to your heirs. I believe you should never take chances with that capital — never use a penny of it to bet on someone's forecast or to use market timing of any kind. But the Variable Portfolio (if you want to have one) is funded with money you've already decided you can afford to lose. Thus you can use it to try to build a big fortune or just to have fun — taking whatever chances you want, knowing that the worst possible loss won’t devastate you.
 ---
-
-## _{{page.bookauthor}}_
+## *{{page.bookauthor}}*
 
 {% for quote in page.quotes reversed %}
-
 #### {{ quote.date | date: '%B %d, %Y' }}
-
 {{ quote.quote }}
 {% endfor %}

@@ -2,7 +2,6 @@
 title: Atomic Habits&#58; Tiny Changes, Remarkable Results
 bookauthor: James Clear
 date: 2020-12-21
-position: 11
 quotes:
   - date: 2020-11-28
     quote: changes that seem small and unimportant at first will compound into remarkable results if you’re willing to stick with them for years.
@@ -37,9 +36,7 @@ quotes:
   - date: 2020-12-03
     quote: take away the vibrancy and spontaneity of life?” Hardly. Such questions set up a false dichotomy. They make you think that you have to choose between building habits and attaining freedom. In reality, the two complement each other. Habits do not restrict freedom. They create it. In fact, the people who don’t have their habits handled are often the ones with the least amount of freedom. Without good financial habits, you will always be struggling for the next dollar. Without good health habits, you will always seem to be short on energy. Without good learning habits, you will always feel like you’re behind the curve. If
   - date: 2020-12-03
-    quote: If you’re always being forced to
-  - date: 2020-12-03
-    quote: make decisions about simple tasks—when should I work out, where do I go to write, when do I pay the bills—then you have less time for freedom.
+    quote: If you’re always being forced to make decisions about simple tasks—when should I work out, where do I go to write, when do I pay the bills—then you have less time for freedom.
   - date: 2020-12-03
     quote: The cue is about noticing the reward. The craving is about wanting the reward. The response is about obtaining the reward. We chase rewards because they serve two purposes&#58; (1) they satisfy us and (2) they teach us.
   - date: 2020-12-04
@@ -60,8 +57,6 @@ quotes:
     quote: Habit stacking is a strategy you can use to pair a new habit with a current habit.
   - date: 2020-12-05
     quote: If you want to drink more water, fill up a few water bottles each morning and place them in common locations around the house.
-  - date: 2020-12-06
-    quote: Create a separate space for work, study, exercise, entertainment, and cooking. The mantra I find useful is “One space, one use.” When I started my career as an entrepreneur,
   - date: 2020-12-06
     quote: Create a separate space for work, study, exercise, entertainment, and cooking. The mantra I find useful is “One space, one use.”
   - date: 2020-12-06
@@ -122,8 +117,6 @@ quotes:
     quote: Commitment devices increase the odds that you’ll do the right thing in the future by making bad habits difficult in the present. However, we
   - date: 2020-12-12
     quote: I often find myself gravitating toward social media during any downtime. If I feel bored for just a fraction of a second, I reach for my phone. It’s easy to write off these minor distractions as “just taking a break,” but over time they can accumulate into a serious issue. The constant tug of “just one more minute” can prevent me from doing anything of consequence. (I’m not the only one. The average person spends over two hours per day on social media. What could you do with an extra six hundred hours per year?)
-  - date: 2020-12-12
-    quote: Once my bad habit became impossible, I discovered that I did actually have the motivation to work on more meaningful tasks. After I removed the mental candy from my environment, it became
   - date: 2020-12-12
     quote: Once my bad habit became impossible, I discovered that I did actually have the motivation to work on more meaningful tasks. After I removed the mental candy from my environment, it became much easier to eat the healthy stuff. When working in your favor, automation
   - date: 2020-12-12
@@ -217,12 +210,9 @@ quotes:
   - date: 2020-12-21
     quote: This is the wisdom behind Seneca’s famous quote, “Being poor is not having too little, it is wanting more.” If your wants outpace your likes, you’ll always be unsatisfied. You’re perpetually putting more weight on the problem than the solution.
 ---
-
-## _{{page.bookauthor}}_
+## *{{page.bookauthor}}*
 
 {% for quote in page.quotes reversed %}
-
 #### {{ quote.date | date: '%B %d, %Y' }}
-
 {{ quote.quote }}
 {% endfor %}

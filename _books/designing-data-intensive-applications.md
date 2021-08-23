@@ -2,7 +2,6 @@
 title: Designing Data-Intensive Applications
 bookauthor: Kleppmann, Martin
 date: 2021-03-02
-position: 10
 quotes:
   - date: 2020-12-23
     quote: If you are designing a data system or service, a lot of tricky questions arise. How do you ensure that the data remains correct and complete, even when things go wrong internally? How do you provide consistently good performance to clients, even when parts of your system are degraded? How do you scale to handle an increase in load? What does a good API for the service look like?
@@ -421,12 +420,9 @@ quotes:
   - date: 2021-03-02
     quote: By structuring applications around dataflow and checking constraints asynchronously, we can avoid most coordination and create systems that maintain integrity but still perform well, even in geographically distributed scenarios and in the presence of faults.
 ---
-
-## _{{page.bookauthor}}_
+## *{{page.bookauthor}}*
 
 {% for quote in page.quotes reversed %}
-
 #### {{ quote.date | date: '%B %d, %Y' }}
-
 {{ quote.quote }}
 {% endfor %}

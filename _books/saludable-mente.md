@@ -2,7 +2,6 @@
 title: Saludable Mente
 bookauthor: Vázquez, Marcos
 date: 2021-07-21
-position: 2
 quotes:
   - date: 2021-07-03
     quote: un estudio en más de 1.000 individuos, el grupo del quintil de mayor grasa abdominal tenía el triple de riesgo de desarrollar demencia que el grupo del quintil con menos grasa abdominal.

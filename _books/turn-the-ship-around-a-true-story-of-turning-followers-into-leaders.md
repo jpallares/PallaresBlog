@@ -2,7 +2,6 @@
 title: Turn the Ship Around!&#58; A True Story of Turning Followers into Leaders
 bookauthor: L. David Marquet
 date: 2021-06-20
-position: 4
 quotes:
   - date: 2021-06-08
     quote: In our modern world, the most important work we do is cognitive; so, it’s not surprising that a structure developed for physical work isn’t optimal for intellectual work. People who are treated as followers have the expectations of followers and act like followers. As

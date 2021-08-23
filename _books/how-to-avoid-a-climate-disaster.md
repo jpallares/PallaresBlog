@@ -2,7 +2,6 @@
 title: How to Avoid a Climate Disaster
 bookauthor: Bill Gates
 date: 2021-03-27
-position: 8
 quotes:
   - date: 2021-03-11
     quote: The world needs to provide more energy so the poorest can thrive, but we need to provide that energy without releasing any more greenhouse gases.
