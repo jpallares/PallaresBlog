@@ -38,7 +38,7 @@ The first 12,450 € have 19% retention. What goes between € 12,450 and € 20
 
 Always the first part of the salary will have a lower retention and increase progressively in each section. I tried to show this through graphics in the [calculator](https://tusueldoneto.pallares.me){:target="\_blank"}, try it.
 
-# State PIT and autonomic PIT
+## State PIT and autonomic PIT
 
 Online calculators normally only show you some sections of the IRPF (PIT). These sections are for the state and apply to all except Basques and Navarros. What we do not usually take into account is that each autonomy has its sections, and it's different for each one of them.
 
