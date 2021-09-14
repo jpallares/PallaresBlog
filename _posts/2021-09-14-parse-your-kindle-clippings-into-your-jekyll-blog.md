@@ -11,7 +11,7 @@ lang: en
 ref: kindle-clippings
 ---
 
-Do you know every time you highlight something in your Kindle it is stored in a file called `MyClippings.txt`? The file itself it's ugly but it can be parsed to show something more eye-catching. [Check the books collection I have.](https://juan.pallares.me/books)
+Do you know every time you highlight something in your Kindle it's stored in a file called `MyClippings.txt`? The file itself it's ugly but it can be parsed to show something more eye-catching. [Check the books collection I have.](https://juan.pallares.me/books)
 
 ## Parse from txt to Markdown
 
@@ -81,4 +81,3 @@ The markdown generated is intended to be used with a [Jekyll collection](https:/
 ## See an example
 
 Check [this blog repo]((https://github.com/jpallares/PallaresBlog)) to see the details on how to do it. Remember [you need to parse the `MyClippings.txt` file as a first step](https://gitlab.com/jpallares/myclippings-to-markdown).
-
