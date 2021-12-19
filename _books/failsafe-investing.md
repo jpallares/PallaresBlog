@@ -3,7 +3,7 @@ title: FailSafe Investing
 bookauthor: Harry Browne
 date: 2021-03-10
 header:
-  teaser: https://covers.openlibrary.org/b/isbn/9780312263218-L.jpg
+  teaser: https://covers.openlibrary.org/b/isbn/031226321X-L.jpg
 quotes:
   - date: 2021-03-06
     quote: The investment expert with the perfect record up to now will lose his touch as soon as you start acting on his advice.
