@@ -149,7 +149,7 @@ DEPENDENCIES
   jemoji
   minima (~> 2.5)
   minimal-mistakes-jekyll
-  tzinfo (~> 1.2)
+  tzinfo (~> 2.0)
   tzinfo-data
   wdm (~> 0.1.1)
   webrick (~> 1.7)
