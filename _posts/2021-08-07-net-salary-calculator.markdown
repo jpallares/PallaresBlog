@@ -12,7 +12,7 @@ ref: sueldo-neto
 
 Imagine that you have a job offer, a new annual gross salary that sounds tempting, but what is the equivalent monthly net salary? What is the rise from your current job? Imagine that you can compare your current salary with the future one by simply dragging a slider, I bring you the solution:
 
-:moneybag: [**Net Salary Calculator**](https://tusueldoneto.pallares.me){:target="\_blank"}
+:moneybag: [**Net Salary Calculator**](https://tecalculo.com/calculadora-de-sueldo-neto){:target="\_blank"}
 
 If you are like me, to calculate the net salary you used to pick the [first result of Google](https://cincodias.elpais.com/herramientas/calculadora-sueldo-neto/). Scrolling up and down all the time, bad UX, refreshing the page that by the way, it's not mobile friendly.
 
@@ -22,7 +22,7 @@ And if you wanted to go one step further, you created an Excel sheet with the ty
 
 So...that's it? Well no ... to calculate well the net salary, there are many more details to consider.
 
-One day I wanted to defeat that dragon and understand as much as possible how it's calculated. While I was investigating, I have been developing this [net salary calculator](https://tusueldoneto.pallares.me){:target="\_blank"} to validate what I was learning. Many cases are missing and the UX is abominable but I have prioritized the usability and ~~I suck doing UX~~. Brace yourselves.
+One day I wanted to defeat that dragon and understand as much as possible how it's calculated. While I was investigating, I have been developing this [net salary calculator](https://tecalculo.com/calculadora-de-sueldo-neto){:target="\_blank"} to validate what I was learning. Many cases are missing and the UX is abominable but I have prioritized the usability and ~~I suck doing UX~~. Brace yourselves.
 
 ## Basic knowledge First
 
@@ -36,7 +36,7 @@ NO.
 
 The first 12,450 € have 19% retention. What goes between € 12,450 and € 20,200, that is, the following 7,750 € have 24% retention. Finally, the difference between 24,000 € and 20,200 € => 3,800 € retains 30%.
 
-Always the first part of the salary will have a lower retention and increase progressively in each section. I tried to show this through graphics in the [calculator](https://tusueldoneto.pallares.me){:target="\_blank"}, try it.
+Always the first part of the salary will have a lower retention and increase progressively in each section. I tried to show this through graphics in the [calculator]https://tecalculo.com/calculadora-de-sueldo-neto
 
 ## State PIT and autonomic PIT
 
@@ -65,7 +65,7 @@ A number that may ring a bell is 5.550 €. It's the minimum deductible. The mos
 
 We substract the deducted amount from the taxes (both state and autonomy)
 
-This is the standard case, deductions increase by each child, for each dependent ancestor, etc. I have collected some of these cases in the [net salary calculator](https://tusueldoneto.pallares.me){:target="\_blank"}, but I have several left to add.
+This is the standard case, deductions increase by each child, for each dependent ancestor, etc. I have collected some of these cases in the [net salary calculator](https://tecalculo.com/calculadora-de-sueldo-neto){:target="\_blank"}, but I have several left to add.
 
 Imagine that Paco has twins, 2 children under 3 years. The deductions increase:
 

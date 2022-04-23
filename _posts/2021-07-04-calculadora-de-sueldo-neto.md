@@ -12,7 +12,7 @@ ref: sueldo-neto
 
 Imagina que tienes una oferta de trabajo, un nuevo sueldo bruto anual que suena tentador, pero ¿Cúal es el neto mensual? ¿Cuál es la subida? Imagina que puedes comparar tu sueldo actual con el futuro simplemente arrastrando un slider, te traigo la solución:
 
-:moneybag: [**Calculadora de sueldo neto**](https://tusueldoneto.pallares.me){:target="\_blank"}
+:moneybag: [**Calculadora de sueldo neto**](https://tecalculo.com/calculadora-de-sueldo-neto){:target="\_blank"}
 
 Si eres como yo, para calcular el sueldo neto a partir del bruto recurrías al [primer resultado de Google](https://cincodias.elpais.com/herramientas/calculadora-sueldo-neto/){:target="\_blank"}. Sin parar de hacer scroll arriba y abajo, refrescando la página que por cierto, es poco usable desde el móvil.
 
@@ -22,7 +22,7 @@ Y si querías hilar fino, te creas un Excel con la típica tabla de tramos y te 
 
 ¿Ya está, no? Pues no no...para calcular bien el sueldo neto de verdad hay muchos más detalles a tener en cuenta.
 
-Un día quise derrotar ese dragón y entender lo mejor posible como se calcula. Mientras investigaba he ido desarrollando esta [calculadora de sueldo neto](https://tusueldoneto.pallares.me){:target="\_blank"} para validar lo que iba aprendiendo. Le faltan muchos casos y la UX es abominable pero he priorizado que sea cómodo de usar ~~y soy nefasto haciendo UX~~. Agárrate que vienen curvas.
+Un día quise derrotar ese dragón y entender lo mejor posible como se calcula. Mientras investigaba he ido desarrollando esta [calculadora de sueldo neto](https://tecalculo.com/calculadora-de-sueldo-neto){:target="\_blank"} para validar lo que iba aprendiendo. Le faltan muchos casos y la UX es abominable pero he priorizado que sea cómodo de usar ~~y soy nefasto haciendo UX~~. Agárrate que vienen curvas.
 
 ## Conocimientos básicos primero
 
@@ -38,7 +38,7 @@ Los primeros 12.450€ tienen 19% de retención.
 Lo que va entre 12.450€ y 20.200€, es decir, los siguientes 7.750 machacantes tienen el 24% de retención.
 Finalmente, la diferencia entre 24.000€ y 20.200€ => 3.800€ le retienen el 30%.
 
-Siempre la primera parte del salario va a tener un retención mas baja y sube progresivamente en cada tramo. He intentado mostrar esto mediante gráficos en la [calculadora](https://tusueldoneto.pallares.me){:target="\_blank"}, pruébala.
+Siempre la primera parte del salario va a tener un retención mas baja y sube progresivamente en cada tramo. He intentado mostrar esto mediante gráficos en la [calculadora](https://tecalculo.com/calculadora-de-sueldo-neto){:target="\_blank"}, pruébala.
 
 ## IRPF Estatal y Autónomico
 
@@ -68,7 +68,7 @@ Posiblemente te suene la cifra 5.550€. Es el mínimo deducible. El caso más c
 
 A los impuestos totales del estado se les resta la deducción calculada, igual con la autonomía.
 
-Este es el caso estándar, las deducciones aumentan por cada hijo, por cada ancestro dependiente, etc. He recogido algunos de estos casos en la [calculadora de sueldo neto](https://tusueldoneto.pallares.me){:target="\_blank"}, pero me quedan varios por añadir.
+Este es el caso estándar, las deducciones aumentan por cada hijo, por cada ancestro dependiente, etc. He recogido algunos de estos casos en la [calculadora de sueldo neto](https://tecalculo.com/calculadora-de-sueldo-neto){:target="\_blank"}, pero me quedan varios por añadir.
 
 Imaginemos que Paco tiene gemelos, 2 hijos de menores de 3 años. Pues las deducciones aumentan hasta quedar:
 
