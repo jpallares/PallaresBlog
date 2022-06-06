@@ -4,6 +4,8 @@ toc_label: "Contents"
 title: How to book andjoy classes automatically
 tags: [node, andjoy, fitness, class, crossfit]
 excerpt: When going to crossfit in the "rush hour" you only have a small time frame to book the class. In 30 minutes all the slots can be full and you can't go anymore. With this script you will book all the classes you need automatically.
+header:
+  teaser: /images/gitlab_andjoy.png
 lang: en
 ref: book-andjoy
 ---
