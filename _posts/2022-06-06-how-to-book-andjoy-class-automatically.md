@@ -14,13 +14,13 @@ ref: book-andjoy
 
 In most gyms/crossfit places, for some activities, you have to book them since there is a limited amount of people that can go. In my case, I tend to go at 7pm and I can start booking since 48h before. If you forget to book it, in around 30 minutes the class is full and you can't assist anymore.
 
-I had tried to put an alarm, a todo list item, eveything...but sometimes I'm far away from technology at 7pm on a Saturady and then I miss the the booking "time frame".
+I had tried to put an alarm, a TODO list item, eveything...but sometimes I'm far away from technology at 7pm on a Saturday and then I miss the booking "time frame".
 
-Not anymore, meet the "andjoy autobook script"
+Not anymore, meet the "andjoy autobook script".
 
 ## Looking for a solution
 
-Using AndJoy via web I realized there is an API I could call to book the classes.
+Using andjoy via web I realized there is an API I could call to book the classes.
 
 ![andjoy web API call example](/images/andjoy_web.png)
 
@@ -31,11 +31,11 @@ I started playing with Postmand and quickly replicated the calls I needed. There
 
 Knowing which calls to do, next step how can I run them automatically? I quickly thought about a node script in Gitlab.
 
-Why? Node scripts allow to make API calls easily and Gitlab has scheduled builds that work really well in my experience
+Why? Node scripts allow to make API calls easily and Gitlab has scheduled builds that work really well in my experience.
 
 ## The script
 
-I uploaded the script to a repo: [andjoy autobook class](https://gitlab.com/jpallares/andjoy-autbook-class). I'm not winning any naming contests. The key is to use it to initialize the env variables with the corresponding values. Being the Cookie the most important, otherwise you won't have access rights.
+I uploaded the script to a repo: [andjoy autobook class](https://gitlab.com/jpallares/andjoy-autbook-class). I'm not winning any naming contests. To make it work you have to initialize the env variables with the corresponding values. Being the Cookie the most important, otherwise you won't have access rights.
 
 To retrieve it look in your browser network traffic when using AndJoy via web.
 
@@ -45,4 +45,4 @@ Finally, let me show you and example of a successful booking:
 
 ![gitlab successful build](/images/gitlab_andjoy.png)
 
-I hope you enjoy it and I hope you don't go to the same crossfit as me 😃
+I hope you enjoy it and I hope you don't go to the same crossfit gym as me 😃
