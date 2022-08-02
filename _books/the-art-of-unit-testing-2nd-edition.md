@@ -15,7 +15,6 @@ quotes:
     quote: My preference is to have each test create its own mocks and stubs by calling helper methods within the test, so that the reader of the test knows exactly what’s going on, without needing to jump from test to setup to understand the full picture.
   - date: 2022-07-17
     quote: Developers abuse setup methods in several ways&#58;
-    
     Initializing objects in the setup method that are used in only some tests in the class
     Having setup code that’s lengthy and hard to understand
     Setting up mocks and fake objects within the setup method
@@ -27,7 +26,6 @@ quotes:
     quote: Because you already know how the end result should look, nothing stops you from using it in a hardcoded way. Now you don’t care how the end result was accomplished, but you find out if it didn’t pass. And you have no logic in your test that might have a bug.
   - date: 2022-07-17
     quote: test that contains logic is usually testing more than one thing at a time, which isn’t recommended, because the test is less readable and more fragile. But test logic also adds complexity that may contain a hidden bug.
-    
     A unit test should, as a general rule, be a series of method calls with assert calls, but no control flows, not even try-catch, and with assert calls. 
   - date: 2022-07-16
     quote: The template test class pattern is an abstract class that contains abstract test methods that derived classes must implement. The driving force behind this pattern is the need to be able to dictate to deriving classes which tests they should always implement.
@@ -55,7 +53,6 @@ quotes:
     quote: We call these classes fake because we don’t want to commit to them only being used as stubs or as mocks.
   - date: 2022-06-15
     quote: Integration testing is testing a unit of work without having full control over all of it and using one or more of its real dependencies, such as time, network, database, threads, random number generators, and so on.
-    
     To summarize&#58; an integration test uses real dependencies; unit tests isolate the unit of work from its dependencies so that they’re easily consistent in their results and can easily control and simulate any aspect of the unit’s behavior.
   - date: 2022-06-15
     quote: This idea of a unit of work means, to me, that a unit can span as little as a single method and up to multiple classes and functions to achieve its purpose.
