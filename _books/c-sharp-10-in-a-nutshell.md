@@ -22,9 +22,7 @@ quotes:
 
 {% for quote in page.quotes reversed %}
 
-#### {{ quote.chapter}}
-
-#### {{ quote.date | date: '%B %d, %Y' }}
+#### {{ quote.date | date: '%B %d, %Y' }} {{ quote.chapter}}
 
 {{ quote.quote }}
 {% endfor %}
