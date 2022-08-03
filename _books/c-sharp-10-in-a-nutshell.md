@@ -3,7 +3,7 @@ title: C# 10 in a Nutshell
 bookauthor: Joseph Albahari
 date: 2022-06-12
 header:
-  teaser:
+  teaser: /images/c-sharp-10-nutshell.jpeg
 quotes:
   - date: 2022-06-12
     quote: The ??= operator (introduced in C&#35 8) is the null-coalescing assignment operator. It says, “If the operand to the left is null, assign the right operand to the left operand.”
