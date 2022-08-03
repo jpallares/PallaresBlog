@@ -3,7 +3,7 @@ title: The Art of Unit Testing, 2nd Edition
 bookauthor: Roy Osherove
 date: 2022-07-25
 header:
-  teaser: 
+  teaser: https://covers.openlibrary.org/b/isbn/1617290890-L.jpg
 quotes:
   - date: 2022-07-25
     chapter: Chapter 11. Design and testability

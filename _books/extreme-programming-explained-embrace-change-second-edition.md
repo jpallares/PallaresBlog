@@ -3,7 +3,7 @@ title: Extreme Programming Explained&#58; Embrace Change, Second Edition
 bookauthor:
 date: 2022-05-09
 header:
-  teaser:
+  teaser: /images/extreme_programming_explained.jpg
 quotes:
   - date: 2022-05-09
     chapter: The XP Series
