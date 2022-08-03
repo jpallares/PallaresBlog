@@ -1,6 +1,6 @@
 ---
 title: Extreme Programming Explained&#58; Embrace Change, Second Edition
-bookauthor:
+bookauthor: Kent Beck, Cynthia Andres
 date: 2022-05-09
 header:
   teaser: /images/extreme_programming_explained.jpg
