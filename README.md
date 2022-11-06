@@ -7,7 +7,15 @@ Main reasons for the change:
 - Now is easier to update since it's a ruby gem.
 - Spain data provider (Movistar) was not providing access to Github.
 
-## How to test locally
+## How to run in VS Code Dev Containers
+
+Install and run `colima` or any other Docker CLI
+- `brew install colima`
+- `colima start`
+- Click `F1` Reopen in dev container
+- If git not visible run `git status` and then `git config --global --add safe.directory /workspaces/PallaresBlog`
+
+## How to run locally
 
 You will need to have `ruby` and `jekyll` then:
 
