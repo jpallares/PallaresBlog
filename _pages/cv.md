@@ -21,7 +21,8 @@ Senior Software Engineer with **{{ site.time | date: '%Y' | minus:2010 }}+ years
 
 ### Professional experience
 
-- 1/2018 - Now - Senior Software Engineer at **Vistaprint**
+- 4/2022 - Now - Senior Software Engineer at **[Trainline](https://www.thetrainline.com/)**
+- 1/2018 - 4/2022 - Senior Software Engineer at **[Vistaprint](https://vista.com/)**
 - 11/2016 - 12/2017 - Senior Sofware Engineer at **ASG (Allen System Group)**
 - 10/2013 - 11/2016 - .NET Software Engineer at **ERNI**
   - Roche
