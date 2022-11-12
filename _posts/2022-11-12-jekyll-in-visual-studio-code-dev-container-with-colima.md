@@ -5,7 +5,7 @@ title: Use Jekyll with Visual Studio Code Dev Containers and Colima
 tags: [jekyll, vscode, container, docker, blog, setup]
 excerpt: Forget about configuration and go straight to write posts
 header:
-  image: /images/vs-code-dev-container-colima.png
+  teaser: /images/vs-code-dev-container-colima.png
 lang: en
 ref: vscodedevcontainer
 ---
