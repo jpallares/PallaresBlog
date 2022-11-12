@@ -9,8 +9,7 @@ Main reasons for the change:
 
 ## How to run in VS Code Dev Containers
 
-Install and run `colima` or any other Docker CLI
-- `brew install colima`
+Install and run `colima` or any other Docker CLI. [More details here](https://juan.pallares.me/visual-studio-code-dev-container/#i-dont-have-docker-desktop-whale).
 - `colima start`
 - Click `F1` Reopen in dev container
 - If git not visible run `git status` and then `git config --global --add safe.directory /workspaces/PallaresBlog`
@@ -21,7 +20,7 @@ You will need to have `ruby` and `jekyll` then:
 
 - `gem install bundler`
 - `bundle install`
-- `bundle exec jekyll serve`
+- `bundle exec jekyll serve --future`
 
 ## Caveat
 
