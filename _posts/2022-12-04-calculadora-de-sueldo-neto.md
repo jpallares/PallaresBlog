@@ -105,6 +105,8 @@ He añadido en la calculadora este dato
 
 ![Beneficio deducción](/images/beneficioDeduccion.png)
 
+*Ten en cuenta que estoy asumiendo que Paco hace una declaración individial, por lo tanto la deducción es del 50%. Si la hace conjunta (solo casados), obtiene el 100%, el doble de deducción que individual.*
+
 ## La fórmula :tada:
 
 La fórmula final para el cálculo de tu sueldo neto es la siguiente:

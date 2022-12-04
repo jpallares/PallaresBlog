@@ -103,6 +103,8 @@ I added to the calculator this data
 
 ![Deduction benefit](/images/beneficioDeduccion.png)
 
+*Note that I am assuming that Paco makes an individual PIT declaration, therefore the deduction is 50%. If you do it jointly (only married couples can), you get 100%.*
+
 ## The formula :tada:
 
 The basic formula is as follows:
