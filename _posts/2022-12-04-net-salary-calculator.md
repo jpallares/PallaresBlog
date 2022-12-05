@@ -32,9 +32,9 @@ There is a urban legend that says: "If your salary raises and changes to the nex
 
 NO.
 
-**It is impossible that a raise of your salary ends up with you earning less net salary**. The sections are cumulative. Example, let's imagine that Paco earns 30000€ gross per year:
+**It is impossible that a raise of your salary ends up with you earning less net salary**. The sections are cumulative. Example, let's imagine that Paco earns 30.000€ gross per year:
 
-The first 12450€ have 19% retention. What goes between 12450€ and 20200€, that is the following 7750€ have 24% retention. Finally, the difference between 26095€ and 20200€ => 5895€ retains 30%.
+The first 12.450€ have 19% retention. What goes between 12.450€ and 20.200€, that is the following 7.750€ have 24% retention. Finally, the difference between 26.095€ and 20.200€ => 5.895€ retains 30%.
 
 Always the first part of the salary will have a lower retention and increase progressively in each section. I tried to show this through graphics in the [calculator]https://tecalculo.com/calculadora-de-sueldo-neto
 
@@ -42,20 +42,20 @@ Always the first part of the salary will have a lower retention and increase pro
 
 ## Expenses 🚗
 
-If you have been reading carefully, you will have noticed that the last subtraction did not use 30000€ and used 26095€. One of the reasons is the expenses.
+If you have been reading carefully, you will have noticed that the last subtraction did not use 30.000€ and used 26.095€. One of the reasons is the expenses.
 
-There is a minimum expense of 2000€. All calculations must be made by initially subtracting this value from the gross. In Paco's case, after restoring the expenses, we are left with 28000€. But this figure is not yet 26,095, what is missing? Social Security.
+There is a minimum expense of 2.000€. All calculations must be made by initially subtracting this value from the gross. In Paco's case, after restoring the expenses, we are left with 28.000€. But this figure is not yet 26.095€ what is missing? Social Security.
 
 ## Social Security 🏥
 
-Apart from expenses, another concept to discount before calculating personal income tax is Social Security. This should be easy, it is 6.35% but with a nuance, [there is a minimum and a maximum](https://www.campmanyabogados.com/blog/bases-cotizacion). The maximum is reached with 48841€ gross per year, all salaries from there pay the same. The minimum\* is 12600€ gross per year.
+Apart from expenses, another concept to discount before calculating personal income tax is Social Security. This should be easy, it is 6.35% but with a nuance, [there is a minimum and a maximum](https://www.campmanyabogados.com/blog/bases-cotizacion). The maximum is reached with 48.841€ gross per year, all salaries from there pay the same. The minimum\* is 12.600€ gross per year.
 
-Paco has a Social Security payment of 1905 left€, which if we subtract it from €28,000 we already have the figure he used in the previous calculation. Let's name everything.
+Paco has a Social Security payment of 1.905€ left, which if we subtract it from 28.000€ we already have the figure he used in the previous calculation. Let's name everything.
 
 ## Tax base
 
 `Tax base = Gross salary - Expenses - Social Security`
-`26095€ = 30000€ - 2000€ - 1905€`
+`26.095€ = 30.000€ - 2.000€ - 1.905€`
 
 ## State PIT and autonomic PIT
 
@@ -71,17 +71,17 @@ The typical state table only applies to non-resident Spaniards, if residing in S
 
 Following the example of Paco, if he lived in Barcelona, we would have the following PIT:
 
-- State - 2997€
-- Catalonia - 3163,35€
-- Total - 6160,35€ (20,53%) (State + Catalonia)
+- State - 2.997€
+- Catalonia - 3.163,35€
+- Total - 6.160,35€ (20,53%) (State + Catalonia)
 
 If you are doing the calculations by your side and the numbers do not match it's normal, look at the next point.
 
 ## Deductions
 
-A number that may ring a bell is 5.550 €. It's the minimum deductible. The most common case: single person without children etc. has that deductible minimum. To deduce it, the sections are applied as well. That is, to know how much we can deduce if we live in Catalonia we have to apply the sections of the State and autonomy to the figure to be deduced. Example:
+A number that may ring a bell is 5.550€. It's the minimum deductible. The most common case: single person without children etc. has that deductible minimum. To deduce it, the sections are applied as well. That is, to know how much we can deduce if we live in Catalonia we have to apply the sections of the State and autonomy to the figure to be deduced. Example:
 
-5,550 € is both in the first stretch of the state (up to 12,450 €) and Catalonia (up to 17,707.02 €), therefore the type of the first section is applied:
+5.550€ is both in the first stretch of the state (up to 12,450€) and Catalonia (up to 17.707,02€), therefore the type of the first section is applied:
 
 - State 9,5% - 527,25 €
 - Catalonia 10,5% - 582,75€
@@ -94,10 +94,10 @@ This is the standard case, deductions increase by each child, for each dependent
 
 Imagine that Paco has twins, 2 children under 3 years. The deductions increase:
 
-- Status 4,66% - 1035,5€
-- Catalonia 5,2% - 1144,5€
+- Status 4,66% - 1.035,5€
+- Catalonia 5,2% - 1.144,5€
 
-The monthly net salary with 12 resulting payments is 2009,55€, which compared to the salary without children (1920,39€) is 42,5€ more per month for having two children under 3 years, I do not know if it's enough for the diapers.
+The monthly net salary with 12 resulting payments is 2.009,55€, which compared to the salary without children (1.920,39€) is 42,5€ more per month for having two children under 3 years, I do not know if it's enough for the diapers.
 
 I added to the calculator this data
 
@@ -124,7 +124,7 @@ From here I will talk about other very important concepts to take into account w
 
 ## The Marginal Rate
 
-Paco does an excellent job and they give him an extra bonus of 2000€. How much will our friend receive in net? The temptation is to calculate with the rate of personal income tax paid out of the total salary (20.53%). But this is wrong, since everything works in sections, that extra income goes directly to the last section, the marginal section, which in this case is 30%. 15% state and 15% regional. Therefore the net of the bonus will be €1400. I've added the marginal type in the details:
+Paco does an excellent job and they give him an extra bonus of 2.000€. How much will our friend receive in net? The temptation is to calculate with the rate of personal income tax paid out of the total salary (20.53%). But this is wrong, since everything works in sections, that extra income goes directly to the last section, the marginal section, which in this case is 30%. 15% state and 15% regional. Therefore the net of the bonus will be 1.400€. I've added the marginal type in the details:
 
 ![Marginal rate in Personal Income Tax tranches](/images/tramoMarginalGrafico.png)
 
@@ -138,7 +138,7 @@ When we have 14 payments instead of 12. The so-called "extra payments" are bigge
 
 ## Compare net salary between communities
 
-In order to see the real difference between communities I have added a graph where you can see what the net salary would be in each community and the difference with the selected community. When your gross is €30,000 it seems that Catalonia is almost the community with the highest tax burden. Madrid, on the contrary, where the net salary would be higher.
+In order to see the real difference between communities I have added a graph where you can see what the net salary would be in each community and the difference with the selected community. When your gross is 30.000€ it seems that Catalonia is almost the community with the highest tax burden. Madrid, on the contrary, where the net salary would be higher.
 
 ![Compare net salary between communities](/images/compararSueldoNetoComunidades.png)
 

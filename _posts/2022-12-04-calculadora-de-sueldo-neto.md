@@ -32,11 +32,11 @@ Hay un especie de leyenda urbana que dice: _"Si te suben el sueldo y cambias de 
 
 NO.
 
-**Es imposible que una subida de tu sueldo implique ganar menos en neto**. Los tramos son acumulables. Ejemplo, imaginemos que Paco cobra 30000€ brutos al año:
+**Es imposible que una subida de tu sueldo implique ganar menos en neto**. Los tramos son acumulables. Ejemplo, imaginemos que Paco cobra 30.000€ brutos al año:
 
-Los primeros 12450€ tienen 19% de retención.
-Lo que va entre 12450€ y 20200€, es decir, los siguientes 7750€ tienen el 24% de retención.
-Finalmente, la diferencia entre 26095€ y 20200€ => 5895€ le retienen el 30%.
+Los primeros 12.450€ tienen 19% de retención.
+Lo que va entre 12.450€ y 20.200€, es decir, los siguientes 7.750€ tienen el 24% de retención.
+Finalmente, la diferencia entre 26.095€ y 20.200€ => 5.895€ le retienen el 30%.
 
 Siempre la primera parte del salario va a tener un retención mas baja y sube progresivamente en cada tramo. He intentado mostrar esto mediante gráficos en la [calculadora](https://tecalculo.com/calculadora-de-sueldo-neto){:target="\_blank"}, pruébala.
 
@@ -44,20 +44,20 @@ Siempre la primera parte del salario va a tener un retención mas baja y sube pr
 
 ## Gastos 🚗
 
-Si has estado leyendo con atención, te habrás dado cuenta que la última resta no uso 30000€ y uso 26095€. Uno de los motivos son los gastos.
+Si has estado leyendo con atención, te habrás dado cuenta que la última resta no uso 30.000€ y uso 26.095€. Uno de los motivos son los gastos.
 
-Hay un mínimo de gastos de 2000€, todos los calculos deben hacerse restando incialmente este valor del bruto, en el caso de Paco, tras restar los gastos nos quedan 28000€. Pero esta cifra aún no es 26095€, ¿qué falta? Seguridad Social.
+Hay un mínimo de gastos de 2.000€, todos los calculos deben hacerse restando incialmente este valor del bruto, en el caso de Paco, tras restar los gastos nos quedan 28.000€. Pero esta cifra aún no es 26.095€, ¿qué falta? Seguridad Social.
 
 ## Seguridad Social 🏥
 
-Aparte de los gastos, otro concepto a descontar antes de calcular el IRPF es la Seguridad Social. Esto debería ser facil, es el 6,35% pero con un matiz, [hay un mínimo y un máximo](https://www.campmanyabogados.com/blog/bases-cotizacion). El máximo se alcanza con 48841€ brutos anuales, todos los sueldos a partir de ahí pagan lo mismo. El mínimo\* es 12600€ brutos anuales.
+Aparte de los gastos, otro concepto a descontar antes de calcular el IRPF es la Seguridad Social. Esto debería ser facil, es el 6,35% pero con un matiz, [hay un mínimo y un máximo](https://www.campmanyabogados.com/blog/bases-cotizacion). El máximo se alcanza con 48.841€ brutos anuales, todos los sueldos a partir de ahí pagan lo mismo. El mínimo\* es 12.600€ brutos anuales.
 
-A Paco le queda un pago a Seguridad Social de 1.905€ que si se lo restamos a 28000€ ya tenemos la cifra que he usado en el cálculo anterior. Vamos a ponerle nombre a todo.
+A Paco le queda un pago a Seguridad Social de 1.905€ que si se lo restamos a 28.000€ ya tenemos la cifra que he usado en el cálculo anterior. Vamos a ponerle nombre a todo.
 
 ## Base imponible
 
 `Base imponible = Salario Bruto - Gastos - Seguridad Social`
-`26095€ = 30000€ - 2000€ - 1905€`
+`26.095€ = 30.000€ - 2.000€ - 1.905€`
 
 ## IRPF Estatal y Autónomico
 
@@ -73,15 +73,15 @@ La tabla Estatal típica solo aplica a españoles no residentes, si resides en t
 
 Siguiendo el ejemplo de Paco, si viviera en Barcelona, tendríamos el siguiente IRPF:
 
-- Estado - 2997€
-- Cataluña - 3163,35€
-- Total - 6160,35 (20,53%) (Estatal + Autónomico)
+- Estado - 2.997€
+- Cataluña - 3.163,35€
+- Total - 6.160,35 (20,53%) (Estatal + Autónomico)
 
 Si estas haciendo los cálculos por tu lado y no te cuadran los números es normal, mira el siguiente punto.
 
 ## Deducciones
 
-Posiblemente te suene la cifra 5550€. Es el mínimo deducible. En el caso más común, persona soltera sin hijos etc., tiene ese mínimo deducible. Para deducirlo se aplican los tramos también. Es decir, para saber cuanto nos podemos deducir si vivimos en Cataluña tenemos que aplicar los tramos del estado y de la autonomía a la cifra a deducir. Ejemplo:
+Posiblemente te suene la cifra 5.550€. Es el mínimo deducible. En el caso más común, persona soltera sin hijos etc., tiene ese mínimo deducible. Para deducirlo se aplican los tramos también. Es decir, para saber cuanto nos podemos deducir si vivimos en Cataluña tenemos que aplicar los tramos del estado y de la autonomía a la cifra a deducir. Ejemplo:
 
 5.550€ está tanto en el primer tramo del Estado (hasta 12.450€) como de Cataluña (hasta 12.450€), por lo tanto se aplica el tipo del primer tramo:
 
@@ -96,10 +96,10 @@ Este es el caso estándar, las deducciones aumentan por cada hijo, por cada ance
 
 Imaginemos que Paco tiene gemelos, 2 hijos de menores de 3 años. Pues las deducciones aumentan hasta quedar:
 
-- Estado 4,66% - 1035,5€
-- Cataluña 5,2% - 1144,5€
+- Estado 4,66% - 1.035,5€
+- Cataluña 5,2% - 1.144,5€
 
-El sueldo neto mensual con 12 pagas resultante es 2009,55€, que comparado con el sueldo sin hijos (1920,39€) resulta en 42,5€ más al mes por tener dos hijos menores de 3 años, no se si llega para los pañales.
+El sueldo neto mensual con 12 pagas resultante es 2.009,55€, que comparado con el sueldo sin hijos (1.920,39€) resulta en 42,5€ más al mes por tener dos hijos menores de 3 años, no se si llega para los pañales.
 
 He añadido en la calculadora este dato
 
@@ -126,7 +126,7 @@ A partir de aquí ya hablo de otros conceptos muy importantes a tener en cuenta 
 
 ## El tipo marginal
 
-Paco hace un trabajo excelente y le dan un bonus extra de 2000€. ¿Cuánto recibirá en neto nuestro amigo? La tentación es calcular con el porcentaje de IRPF que paga del total del salario (16,83%). Pero es erróneo, como todo funciona por tramos, ese ingreso extra va directo al último tramo, el tramo marginal, que en este caso es de 30%. 15% estatal y 15% autonómico. Por la tanto el neto del bonus será 1400€. He añadido el tipo marginal en los detalles:
+Paco hace un trabajo excelente y le dan un bonus extra de 2.000€. ¿Cuánto recibirá en neto nuestro amigo? La tentación es calcular con el porcentaje de IRPF que paga del total del salario (16,83%). Pero es erróneo, como todo funciona por tramos, ese ingreso extra va directo al último tramo, el tramo marginal, que en este caso es de 30%. 15% estatal y 15% autonómico. Por la tanto el neto del bonus será 1.400€. He añadido el tipo marginal en los detalles:
 
 ![Tramo marginal en los tramos IRPF](/images/tramoMarginalGrafico.png)
 
@@ -140,7 +140,7 @@ Cuando tenemos 14 pagas en lugar de 12. Las mal llamadas "pagas extras" son más
 
 ## Comparar sueldo neto entre comunidades
 
-Para poder ver la diferencia real entre comunidades he añadido un gráfico donde se puede ver cual sería el salario neto en cada comunidad y la diferencia con la comunidad seleccionado. Cuando tu bruto son 30000€ parece que Cataluña es casi la comunidad con mas carga impositiva. Madrid donde el sueldo neto sería superior.
+Para poder ver la diferencia real entre comunidades he añadido un gráfico donde se puede ver cual sería el salario neto en cada comunidad y la diferencia con la comunidad seleccionado. Cuando tu bruto son 30.000€ parece que Cataluña es casi la comunidad con mas carga impositiva. Madrid donde el sueldo neto sería superior.
 
 ![Comparar sueldo neto entre comunidades](/images/compararSueldoNetoComunidades.png)
 
