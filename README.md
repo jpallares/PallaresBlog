@@ -7,6 +7,10 @@ Main reasons for the change:
 - Now is easier to update since it's a ruby gem.
 - Spain data provider (Movistar) was not providing access to Github.
 
+## How to update
+
+Run `bundle update`
+
 ## How to run in VS Code Dev Containers
 
 Install and run `colima` or any other Docker CLI. [More details here](https://juan.pallares.me/visual-studio-code-dev-container/#i-dont-have-docker-desktop-whale).
