@@ -9,7 +9,7 @@ Main reasons for the change:
 
 ## How to update
 
-Run `bundle update`
+Try first in a branch. Run `bundle update`
 
 ## How to run in VS Code Dev Containers
 
