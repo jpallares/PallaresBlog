@@ -1,7 +1,7 @@
 ---
 title: Genghis Khan y el inicio del mundo moderno
 bookauthor: Jack Weatherford
-date: 2022-12-29
+date: 2023-01-26
 header:
   teaser: https://covers.openlibrary.org/b/isbn/0609610627-L.jpg
 quotes:
@@ -107,6 +107,123 @@ quotes:
   - date: 2022-12-29
     chapter: 
     quote: Sirva de muestra el mensaje que envió a la población de Nisapur&#58; «A los comandantes, a los ancianos y al pueblo en general. Sabed que Dios me ha dado el gobierno de la tierra desde Oriente hasta Occidente. El que se someta, salvará la vida, pero el que resista, será aniquilado junto con sus esposas, hijos y las personas que tenga a su cargo»
+  - date: 2023-01-01
+    chapter: 
+    quote: Al término de la reunión entre Genghis Khan y sus hijos, tan intensa desde el punto de vista emocional, probablemente ninguno de sus protagonistas fuera consciente de las importantes consecuencias que esa asamblea tendría en un futuro. En aquella juriltai familiar, los que salieron victoriosos acababan de configurar el mundo de un modo que presagiaría los resultados del Congreso de Viena celebrado tras las guerras napoleónicas, los de la Conferencia de Versalles después de la Primera Guerra Mundial y los de las reuniones de los Aliados en Yalta y Potsdam durante la Segunda Guerra Mundial.
+  - date: 2023-01-01
+    chapter: 
+    quote: Padre e hijo nunca volvieron a encontrarse. En vez de regresar a Mongolia, Yochi se quedó en las tierras recién conquistadas. Falleció al poco tiempo, y su muerte estuvo tan rodeada de misterio como su nacimiento. Lo propicio de su desaparición, mientras su padre todavía vivía, hizo correr el rumor de que tal vez Genghis Khan ordenó que lo mataran para asegurar la paz política entre sus hijos por el bien del Imperio mongol;
+  - date: 2023-01-01
+    chapter: 
+    quote: Y expone sus principios en dos frases muy simples&#58; «Detesto los lujos» y «Practico la moderación».
+  - date: 2023-01-01
+    chapter: 
+    quote: Reconocía sólo un imperio anterior al suyo, el de sus antepasados, los hunos, en quienes se inspiró. Es indudable que no deseaba gobernar ni al estilo musulmán ni al chino. Quería encontrar el suyo propio, como correspondía al imperio de un pueblo estepario descendiente de los hijos de Atila.
+  - date: 2023-01-02
+    chapter: 
+    quote: Al revés de lo que pensaba su padre, Ogodei estaba convencido de que un reino conquistado a lomos de caballo no podía ser gobernado a lomos de caballo, cuando, a decir verdad, el gobierno a lomos de caballo y los centros móviles de poder habían sido de hecho uno de los factores fundamentales del éxito mongol.
+  - date: 2023-01-02
+    chapter: 
+    quote: Comenzó así un proceso de cooptación que durante las cuatro décadas siguientes transformaría por completo a los mongoles&#58; éstos dejarían de ser una nación de guerreros montados a caballo para convertirse en una corte con todos los arreos propios de la decadencia civilizada, tan opuesta al legado de Genghis.
+  - date: 2023-01-04
+    chapter: 
+    quote: Las tropas mongolas participarían en unas campañas que se extenderían a lo largo de más de ocho mil kilómetros y de más de cien grados de latitud, una hazaña que no llegaría a realizar ningún otro ejército hasta la Segunda Guerra Mundial, cuando Estados Unidos y los Aliados emprendieron sus campañas simultáneamente en Europa y Asia.
+  - date: 2023-01-06
+    chapter: 
+    quote: Los mongoles escogieron una zona abierta para combatir, situada a unos ocho kilómetros de la ciudad, y el campo de batalla sería conocido en adelante por su nombre alemán, Wahlstatt, «Lugar Elegido».
+  - date: 2023-01-06
+    chapter: 
+    quote: los sacerdotes cristianos intentaron mantenerlos fuera de Pest, exponiendo los huesos y demás reliquias de sus santos ante el ejército que se les venía encima. La visión de los fragmentos de cuerpos muertos irritó a los mongoles, para los cuales aquel acto suponía una contaminación religiosa, además de ser repugnante. Llenos de miedo y de cólera, no sólo mataron a los clérigos, sino que además quemaron las reliquias y las iglesias con el fin de purificarse de toda contaminación. Para Europa, el encuentro con los mongoles había supuesto tanto un revés religioso como un desastre militar, pues, además de los soldados y el rey, Hungría perdió a un obispo, a dos arzobispos y a muchos caballeros de la Orden del Temple.
+  - date: 2023-01-06
+    chapter: 
+    quote: A pesar de las incursiones de prueba que hicieron a lo largo del Danubio, la invasión a gran escala de Europa occidental por parte de los mongoles no llegó a materializarse. El 11 de diciembre de 1241 murió Ogodei, según se dijo, con los sentidos embotados por una borrachera. La noticia de su muerte llegó a oídos de las tropas mongolas en Europa, a seis mil kilómetros de distancia de Karakorum, al cabo de cuatro o seis semanas. Chagatai falleció más o menos por la misma época, y de ese modo, apenas catorce años después de la muerte de Genghis Khan, habían perdido la vida sus cuatro hijos, y los jóvenes príncipes, los nietos del fundador de la dinastía, regresaban deprisa y corriendo a la patria para seguir peleándose unos con otros y determinar cuál de ellos se convertía en el nuevo gran kan. La lucha entre las diversas ramas de la familia se prolongaría durante otros diez años, y al menos a lo largo de toda esa década el resto del mundo se vería libre de la invasión mongola.
+  - date: 2023-01-06
+    chapter: 
+    quote: una relación tan duradera como lucrativa entre los mongoles y los mercaderes de Venecia y Génova, que establecieron colonias comerciales en el mar Negro con el fin de sacar provecho de aquel nuevo mercado. Los italianos suministraban a los mongoles productos manufacturados a cambio del derecho de vender esclavos de origen eslavo en los mercados del Mediterráneo. Esta decisión de vender a los jóvenes crearía más adelante un grave problema a los mongoles, pues los italianos vendían la mayoría de sus esclavos al sultán de Egipto, que los utilizaba en su ejército de soldados de condición servil. Al cabo de otros veinte años, los mongoles se verían condenados a enfrentarse a ese ejército compuesto principalmente por eslavos y kipchakos perfectamente familiarizados con su forma de combatir y que en muchos casos habían aprendido incluso la lengua mongola antes de ser vendidos en el extranjero.
+  - date: 2023-01-07
+    chapter: 
+    quote: esta década supuso un período de paz muy necesaria para todo el imperio, una oportunidad de consolidar determinadas conquistas, y una época de recuperación tras las cuatro décadas de la primera guerra mundial mongola de 1212-1241, que, entre otras cosas, sirvió de preparación para la siguiente.
+  - date: 2023-01-07
+    chapter: 
+    quote: Aquella celebración supuso para Sorjojtani la culminación de la obra de su vida y, en cierto sentido, fue más en su honor que en el de su hijo. Mientras que incluso Genghis Khan había tenido unos hijos relativamente débiles, dados a la bebida y egoístas, ella había engendrado y criado a cuatro hijos destinados a marcar un hito en la historia. Todos ellos fueron kanes. En los años por venir Mongke, Arik Boke y Kublai ostentarían el título de gran kan durante períodos más o menos largos, y otro hijo suyo, Hulegu, se convertiría en Ilkan de Persia y sería el fundador de su propia dinastía en este país. Los hijos de Sorjojtani llevarían el Imperio mongol a su máxima extensión conquistando toda Persia, Bagdad, Siria y Turquía. Conquistarían la China de la dinastía Song por el sur y llegarían hasta Vietnam, Laos y Birmania. Acabarían con la temida secta de los Asesinos y ejecutarían al califa musulmán de Bagdad.
+  - date: 2023-01-07
+    chapter: 
+    quote: Al término del juicio, el nuevo kan halló a sus primos culpables de diversos delitos. A dos príncipes les llenaron la boca de piedras y lodo hasta que murieron. Algunos consejeros suyos se suicidaron. En total, Mongke ejecutó a setenta y siete personas de la estirpe de Ogodei o estrechamente relacionadas con ella.
+  - date: 2023-01-07
+    chapter: 
+    quote: Tras llevar a cabo la amplia y sangrienta purga del linaje de Ogodei, Mongke Khan promulgó una amnistía general de los cautivos y presos de carácter no político. Era evidente que el poder había pasado al linaje de Tolui. Sorjojtani había aplastado los últimos obstáculos que se oponían al poder de sus hijos, y murió sabiendo que sus cuatro vástagos no tenían que temer ninguna otra amenaza procedente de ninguna otra rama de la Familia Dorada.
+  - date: 2023-01-08
+    chapter: 
+    quote: Por primera vez, pudo utilizarse una sola unidad de cuenta desde China hasta Persia.
+  - date: 2023-01-08
+    chapter: 
+    quote: Debido supuestamente a la importancia que tenían las drogas para los ismailíes, las gentes de su entorno los llamaban hashshashin, palabra que significa «consumidores de hachís». Con el tiempo, este nombre se modificó y dio lugar a nuestro término «asesinos»[140]. Independientemente de que aquellos asesinos utilizaran realmente o no el hachís como fuente de inspiración, el nombre se propagó a numerosas lenguas para designar a los autores de la muerte de una persona, especialmente de alto rango.
+  - date: 2023-01-08
+    chapter: 
+    quote: El ejército mongol había llevado a cabo en sólo dos años lo que los cruzados europeos de Occidente y los turcos selyúcidas de Oriente no habían conseguido en doscientos años de lucha continuada. Había conquistado el corazón del mundo árabe[143]. Ningún otro ejército no musulmán sería capaz de conquistar Bagdad o Irak de nuevo hasta la llegada de las tropas americanas y británicas en 2003.
+  - date: 2023-01-08
+    chapter: 
+    quote: Aunque por entonces diera la impresión de que el Imperio mongol amenazaba con tragarse la totalidad del mundo islámico, en realidad había tocado techo en Occidente. El imperio no se extendería más en esa dirección. Un ejército de esclavos mamelucos, en su mayoría comprados por mercaderes italianos entre las poblaciones kipchakas y eslava de Rusia y vendidos después al sultán de Egipto, salió de este país y se enfrentó a un destacamento mongol en Ain Yalut, las Fuentes de Goliat, cerca del mar de Galilea, en lo que hoy día es Israel. La mañana del 3 de septiembre de 1260, un año después de la muerte de Mongke Khan, los mamelucos derrotaron a los mongoles. El imperio había llegado a su límite occidental.
+  - date: 2023-01-08
+    chapter: 
+    quote: El Imperio mongol alcanzó su máxima extensión con Mongke, que fue el último descendiente de Genghis en ser reconocido y aceptado como gran kan por todo el Imperio mongol. Numerosos kanes seguirían gobernando sobre diversas partes del imperio y muchos de ellos afirmarían ser herederos legítimos de Temuyín y acreedores por tanto al título imperial. Pero ninguno de ellos sería reconocido como tal por las demás facciones y ramas de la familia. Mongke Khan comenzó, pero no terminó, la segunda guerra mundial mongola. Ésta acabó sin victoria ni derrota; sencillamente fue languideciendo poco a poco hasta cesar por completo.
+  - date: 2023-01-20
+    chapter: 
+    quote: Kublai quiso erigir una nueva ciudad, una verdadera capital imperial al gusto chino, más hacia el sur, en un lugar mejor situado en el que poder explotar la riqueza agrícola de las tierras que bordeaban el río Amarillo. Eligió como emplazamiento la antigua capital de los yurchen, Zhongdu, conquistada por Genghis Khan en 1215, el año de su nacimiento. En 1272 publicó el decreto en virtud del cual ordenaba la construcción de su nueva ciudad, y la hizo conectar al río Amarillo por medio de un canal. Los mongoles la llamaron Kanbalik, la ciudad del kan. Sus súbditos chinos la llamaron Dadu, la Gran Capital, que creció hasta convertirse en la actual Pekín.
+  - date: 2023-01-20
+    chapter: 
+    quote: En un recinto amurallado, vigilado por guardias mongoles, la familia real y la corte seguían viviendo como mongoles. Las grandes zonas abiertas destinadas a los animales que había en medio de la ciudad no tenían precedente alguno en la cultura china. Esta Ciudad Prohibida era como una estepa en miniatura creada en el centro de la capital. Durante la era mongol estuvo plagada de tiendas, pues con frecuencia los miembros de la corte preferían vivir, comer y dormir en su ger. Las esposas del kan que estaban embarazadas siempre querían que sus hijos nacieran en una ger, y cuando crecían los niños recibían sus lecciones y enseñanzas también en una ger. Aunque Kublai Khan y sus sucesores siguieron comportándose públicamente como emperadores chinos, dentro de las murallas de la Ciudad Prohibida nunca dejaron de vivir como mongoles esteparios.
+  - date: 2023-01-21
+    chapter: 
+    quote: «el mejor legado del Imperio mongol que heredaron los chinos es la propia nación china»[162]. Los mongoles no sólo unieron todas las regiones que hablaban distintos dialectos chinos, sino que las combinaron con los reinos vecinos de los tibetanos, los manchúes y los uigures y con infinidad de pequeños principados y naciones tribales.
+  - date: 2023-01-21
+    chapter: 
+    quote: El kamikaze, o Viento Divino, como posteriormente sería llamado por los japoneses, agitó las aguas del mar y destruyó, empujándolas contra las rocas, muchas de las embarcaciones que los mongoles habían construido a toda prisa. En su esfuerzo por escapar de aquel infierno, perdieron la vida unos trece mil hombres, en su mayoría ahogados, al intentar cruzar el fatídico canal que los separaba de los puertos seguros de Corea. La mayor armada de la historia acabó siendo víctima de la matanza más trágica, aunque sin sangre, perpetrada en las aguas de un océano.
+  - date: 2023-01-21
+    chapter: 
+    quote: en el sureste asiático, de cuya administración no se ocuparon de forma directa, forjaron nuevas naciones que constituirían los cimientos del Vietnam y la Tailandia actuales. Antes de la era mongola, la región que hoy día comprende Tailandia, Laos, Vietnam y Camboya había sido decididamente india en cultura y había seguido los estilos arquitectónicos, las prácticas religiosas y la mitología de la India hindú. Los mongoles, y los emigrantes chinos que ellos llevaron a esas tierras, crearon una nueva cultura híbrida que sería conocida con el calificativo de indochina.
+  - date: 2023-01-21
+    chapter: 
+    quote: De esta forma, entre 1242 y 1293, la expansión mongola llegó a su máximo apogeo, siendo cuatro los frentes de guerra que marcaron las fronteras externas del mundo mongol, a saber, Polonia, Egipto, Java y Japón. La zona comprendida entre estos cuatro puntos había sufrido conquistas devastadoras y había sido objeto de cambios radicales con el fin de establecer un sistema completamente distinto de gobierno, pero estaba a punto de vivir un siglo de paz política sin precedente que se caracterizaría por una explosión comercial, tecnológica e intelectual de proporciones desconocidas en la historia de la humanidad.
+  - date: 2023-01-23
+    chapter: 
+    quote: El estandarte del espíritu guiaba a Kublai en lo que era un frívolo paseo caracterizado por una serie de entretenimientos que en último término no tenían ningún significado ni conducían a ninguna parte. El Imperio mongol seguiría en pie durante un siglo más, pero apenas tres generaciones después de su creación ya había perdido el rumbo. Era evidente para todos que el estandarte del espíritu de Genghis Khan ya no guiaba a sus descendientes ni al pueblo que se vanagloriaba de ser su seguidor.
+  - date: 2023-01-23
+    chapter: 
+    quote: Teniendo en cuenta el tremendo hincapié que se hacía en la libertad religiosa a lo largo y ancho de todo el Imperio mongol, Rabban Bar Sawma quedó sorprendido cuando, al llegar a Europa, descubrió que sólo se toleraba un solo credo. Encontró particularmente curioso que las autoridades de la Iglesia tuvieran tanto poder político sobre las naciones y todavía más poderes mundanos sobre la vida cotidiana de las gentes sencillas.
+  - date: 2023-01-23
+    chapter: 
+    quote: Un tipo de seda particularmente suave y lustrosa se llamó en Occidente satén, nombre derivado del puerto mongol de Zaytun, el mismo del que zarpó Marco Polo cuando regresó a Europa. Una variedad de tela ricamente decorada llamada seda adamascada recibía este nombre de la ciudad de Damasco, a través de la cual pasaba la mayor parte del comercio del Ilkanato de Persia camino de Europa. Marco Polo alude a otro tipo de tela especialmente fina y delicada fabricada en Mosul, que recibió en francés antiguo el nombre de mouslin y entre nosotros se llama muselina.
+  - date: 2023-01-23
+    chapter: 
+    quote: Los imperios tradicionales acumulaban la riqueza en una sola ciudad. Todos los caminos conducían a la capital y lo mejor de cada cosa acababa en ella. Un solo lugar llegaba a dominar de tal modo un imperio que los nombres de ciudades como Roma o Babilonia pasaron a ser sinónimos de sus respectivos imperios. El Imperio mongol nunca tuvo una sola gran ciudad, y dentro de él las mercancías y las personas viajaban constantemente de un sitio a otro.
+  - date: 2023-01-23
+    chapter: 
+    quote: Las ciudades del imperio de Jorezm habían sido centros particularmente importantes del estudio de las matemáticas; el término «algoritmo» deriva precisamente de al Jorezm.
+  - date: 2023-01-23
+    chapter: 
+    quote: Al no tener preferencias culturales profundas en estos campos, los mongoles adoptaron soluciones más pragmáticas que ideológicas. Intentaban encontrar lo que funcionaba mejor; y cuando lo hallaban, lo exportaban a otros países. No tenían que preocuparse de si su astronomía estaba de acuerdo o no con los preceptos de la Biblia, si su sistema de escritura seguía los principios clásicos enseñados por los mandarines de China, o si los imanes musulmanes desaprobaban sus estampas y pinturas. Los mongoles tuvieron el poder, al menos temporalmente, de imponer unos sistemas internacionales de tecnología, agricultura, y de conocimiento nuevos, que estaban por encima de los gustos o los prejuicios de una sola civilización;
+  - date: 2023-01-23
+    chapter: 
+    quote: Esta nueva cultura global siguió creciendo mucho después de la caída del Imperio mongol, y a través de su desarrollo continuo durante los siglos venideros se convertiría en el fundamento del sistema mundial moderno, en el que sigue haciéndose hincapié en los principios establecidos originalmente por los mongoles, esto es el libre comercio, las comunicaciones libres, los conocimientos compartidos, la política secular, la coexistencia religiosa, el derecho internacional, y la inmunidad diplomática.
+  - date: 2023-01-25
+    chapter: 
+    quote: Con la mortandad causada por la peste, el centro no pudo aguantar más y el complejo sistema se vino abajo. El Imperio mongol dependía del movimiento rápido y constante de personas, mercancías e información a lo largo y ancho de sus vastos dominios. Sin esos contactos, no había imperio.
+  - date: 2023-01-25
+    chapter: 
+    quote: Mientras que Corea, Rusia y China volvieron a estar en manos de dinastías nativas, los territorios musulmanes sufrieron una transición más compleja en su salida de la dominación mongola. En vez de reinstaurarse el poder de los árabes, que habían sido los mercaderes, los intermediarios, los banqueros, los navieros y los caravaneros que habían unido Asia y Europa, apareció un nuevo híbrido cultural que conjugaba un sistema militar turcomongol con las instituciones legales del islam y las antiguas tradiciones culturales de Persia. La parte oriental del mundo musulmán había encontrado una nueva libertad cultural en la que podían seguir siendo musulmanes, pero no bajo la dominación de los árabes, a los que nunca fue permitido recuperar el control. Nuevas dinastías, como la de los otomanos en Turquía, la de los safávidas en Persia, y la de los mogoles en la India, llamadas a veces los Imperios de la Pólvora, se apoyaron ante todo en las grandes innovaciones del armamento mongol, una organización militar basada por un lado en la caballería y en la infantería armada, y por otro en el uso de las armas de fuego, para luchar contra el enemigo exterior y, lo que acaso sea más importante, en el orden interno para mantener el poder sobre unos súbditos pertenecientes a una gran variedad de etnias.
+  - date: 2023-01-25
+    chapter: 
+    quote: Los descendientes de Timur se conocen en la historia con el nombre de los mogoles de la India. Babur, el fundador de la nueva dinastía en 1519, era descendiente en decimotercera generación del segundo hijo de Genghis, Chagatai. El imperio mogol llegó a su punto culminante con el nieto de Babur, Akbar, que reinó de 1556 a 1608. Tenía el genio de Genghis Khan para la administración y como él daba mucha importancia al comercio. Abolió la odiada yizia, el impuesto que debían pagar los no musulmanes. Akbar organizó su caballería inspirándose en las unidades tradicionales mongolas de diez hombres (hasta cinco mil) e instituyó un cuerpo de funcionarios civiles basado en el mérito. Del mismo modo que los mongoles convirtieron China en el centro manufacturero y comercial más productivo de su época, los mogoles hicieron de la India la nación manufacturera y comercial más grande del mundo y, en contra tanto de la tradición musulmana como de la hindú, elevaron el estatus social de la mujer. Mantuvieron la actitud universalista hacia la religión e intentaron amalgamar todas las creencias en una sola Fe Divina, Din-i-Ilahi, con un solo Dios en el cielo y un solo emperador en la tierra.
+  - date: 2023-01-25
+    chapter: 
+    quote: Debido a la quiebra del sistema de comunicaciones mongol, los europeos no habían tenido noticia de la caída del imperio y del derrocamiento del kan mongol. Colón, por tanto, insistía en que, si bien los musulmanes constituían un obstáculo insuperable en la ruta terrestre que comunicaba Europa con la corte mongola, él podía cruzar la mar Océana y llegar por el oeste al país del que hablaba Marco Polo.
+  - date: 2023-01-26
+    chapter: 
+    quote: La primera asociación de los niños retrasados con la «raza mongoloide» de la que tenemos constancia aparece en el estudio de 1844 de Robert Chambers, que relacionó la enfermedad con el incesto&#58; «El parentesco demasiado cercano de los padres suele producir hijos de tipo mongoloide, es decir personas que en la madurez todavía son una especie de niños»
+  - date: 2023-01-26
+    chapter: 
+    quote: En 1944, prácticamente sin que nadie se enterara, en el paroxismo final de la Segunda Guerra Mundial, murió en Kabul, Afganistán, Sayid Alim Khan, antiguo emir de Bujará y último descendiente de Genghis en ocupar un trono, tras casi un cuarto de siglo de exilio lejos de la ciudad en la que había reinado de joven.
 ---
 ## *{{page.bookauthor}}*
 
