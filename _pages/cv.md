@@ -3,7 +3,7 @@ permalink: /cv/
 title: CV
 header:
   image: /images/NYCweilah.jpg
-  caption: "Photo credit: [weilah](http://500px.com/weilah)"
+  caption: 'Photo credit: [weilah](http://500px.com/weilah)'
 ---
 
 **Notice** there is more detailed information in my [LinkedIn profile](http://linkedin.com/in/juanpallares)
@@ -13,7 +13,7 @@ header:
 
 ### Summary
 
-Senior Software Engineer with **{{ site.time | date: '%Y' | minus:2010 }}+ years of experience**. Expert in C#, .NET stack both back-end and front-end also with a background in React and MongoDB. Very concerned about writing clean code and following best practices. Organized and meticulous, I define myself as a team player. I am used to working on agile, international and multicultural environments while delivering high quality products. A year as Scrum Master gave me some non- technical yet very valuable skills. I love playing around with my Raspberry Pi and write from time to time on this blog. Always trying to learn and improve, kaizen
+Senior Software Engineer with **{{ site.time | date: '%Y' | minus:2010 }}+ years of experience**. Expert in C#, .NET stack both back-end and front-end also with a background in React and MongoDB. Very concerned about writing clean code and following best practices. Organized and meticulous, I define myself as a team player. I am used to working on agile, international and multicultural environments while delivering high quality products. A year as Scrum Master gave me some non-technical yet very valuable skills. I love playing around with my Home Server, work on my [pet projects](https://github.com/jpallares) like [tecalculo.com](https://tecalculo.com/) and write from time to time on this blog. Always trying to learn and improve, kaizen.
 
 ### Skills
 
